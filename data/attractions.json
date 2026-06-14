@@ -1,1 +1,1694 @@
-[]
+[
+  {
+    "id": "gateway-of-india",
+    "name": "Gateway of India",
+    "category": "historical",
+    "locality": "Colaba",
+    "description": "A 26-metre triumphal arch monument built in 1924 to commemorate the visit of King George V and Queen Mary. Overlooks the Arabian Sea and is the starting point for ferries to Elephanta Caves.",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/The_Gateway_of_India,_Mumbai.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gateway_of_India_-Mumbai.jpg/1920px-Gateway_of_India_-Mumbai.jpg"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free to view; ferry tickets to Elephanta cost extra",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Early morning or sunset",
+    "avg_duration_min": 45,
+    "badge_color": "warning",
+    "tags": [
+      "landmark",
+      "outdoor",
+      "photography",
+      "waterfront"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "elephanta-caves",
+    "name": "Elephanta Caves",
+    "category": "historical",
+    "locality": "Elephanta Island",
+    "description": "UNESCO World Heritage rock-cut cave temples dating from the 5th-8th century CE, dedicated to Lord Shiva. Famous for the Trimurti sculpture. Reached by a 1-hour ferry from Gateway of India.",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Elephanta_Caves_Trimurti.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Elephanta_caves3.jpg/500px-Elephanta_caves3.jpg"
+    ],
+    "entry_fee": 40,
+    "entry_fee_note": "\u20b940 for Indian nationals, \u20b9600 for foreign nationals; village entry \u20b910 extra; ferry \u20b9200-250 round trip (not included)",
+    "open_time": "09:00",
+    "close_time": "17:30",
+    "closed_on": [
+      0
+    ],
+    "best_time": "Morning (avoid monsoon, Jun-Aug)",
+    "avg_duration_min": 240,
+    "badge_color": "warning",
+    "tags": [
+      "unesco",
+      "historical",
+      "outdoor",
+      "ferry-required"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "marine-drive",
+    "name": "Marine Drive",
+    "category": "nature",
+    "locality": "Churchgate / Nariman Point",
+    "description": "A 3.6km C-shaped boulevard along the coast, also called the Queen's Necklace for how its lights look at night from above. A favourite evening promenade for locals and tourists.",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/View_from_Marine_Drive_Mumbai.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Marine_Lines_Mumbai_2021.jpg/1920px-Marine_Lines_Mumbai_2021.jpg"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free, always open",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Sunset (around 18:45-19:15 depending on season)",
+    "avg_duration_min": 60,
+    "badge_color": "success",
+    "tags": [
+      "scenic",
+      "waterfront",
+      "sunset_spot",
+      "outdoor",
+      "walking"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "chowpatty-beach",
+    "name": "Girgaon Chowpatty",
+    "category": "nature",
+    "locality": "Marine Drive / Girgaon",
+    "description": "A busy sandy beach at the north end of Marine Drive, famous for street food stalls, sunset views, and as the site of Ganesh Chaturthi immersions.",
+    "images": [
+      "https://photos.wikimapia.org/p/00/02/92/71/04_full.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwsKWnWD01Mt22RF_i1jkzckJKGieJOHRcgFY6RuxI0g&s=10"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Evening",
+    "avg_duration_min": 60,
+    "badge_color": "success",
+    "tags": [
+      "beach",
+      "sunset_spot",
+      "outdoor",
+      "food"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "csmvs-museum",
+    "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS)",
+    "category": "historical",
+    "locality": "Kala Ghoda, Fort",
+    "description": "Mumbai's premier museum (formerly Prince of Wales Museum) housing over 50,000 artefacts spanning the Indus Valley, Gupta, and Mughal periods, plus natural history and decorative arts collections.",
+    "images": [
+      "https://media.gettyimages.com/id/522676854/photo/prince-of-wales-museum-most-prestigious-museum-in-mumbai.jpg?s=612x612&w=0&k=20&c=EDlVD1op56739wOfnAgDjT63DLQ1wD7ZxTGWDQYxDOA=",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/The_Prince_of_Wales_Museum_lobby.JPG/500px-The_Prince_of_Wales_Museum_lobby.JPG"
+    ],
+    "entry_fee": 85,
+    "entry_fee_note": "\u20b985 for Indian adults; camera fee extra; children may have reduced rates",
+    "open_time": "10:15",
+    "close_time": "18:00",
+    "closed_on": [],
+    "best_time": "Anytime (air-conditioned)",
+    "avg_duration_min": 120,
+    "badge_color": "warning",
+    "tags": [
+      "museum",
+      "indoor",
+      "art",
+      "history"
+    ],
+    "is_outdoor": false
+  },
+  {
+    "id": "csmt-station",
+    "name": "Chhatrapati Shivaji Maharaj Terminus (CSMT)",
+    "category": "historical",
+    "locality": "Fort",
+    "description": "A UNESCO World Heritage Victorian Gothic Revival railway station built in 1887, formerly Victoria Terminus. Still a fully functioning station and one of Mumbai's most photographed buildings.",
+    "images": [
+      "https://media.gettyimages.com/id/552552095/photo/mumbai-victoria-terminus-railways-station.jpg?s=612x612&w=0&k=20&c=FKo-iLNW66VVTU_1Pk3x7C6Wa54FtO173mQV8SLw2kQ=",
+      "https://media.gettyimages.com/id/2228880705/photo/spiral-staircase-chhatrapati-shivaji-maharaj-terminus.jpg?s=612x612&w=0&k=20&c=XmnkbUfbfJoOIR__XYetNb93LPgs2BmbdX55zmJ7Q3k="
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free to view exterior; functioning station",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Evening (illuminated) or early morning for fewer crowds",
+    "avg_duration_min": 30,
+    "badge_color": "warning",
+    "tags": [
+      "unesco",
+      "architecture",
+      "landmark",
+      "outdoor"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "bandra-worli-sealink",
+    "name": "Bandra-Worli Sea Link",
+    "category": "nature",
+    "locality": "Bandra / Worli",
+    "description": "A 5.6km cable-stayed bridge connecting Bandra and Worli across Mahim Bay, officially the Rajiv Gandhi Sea Link. Iconic at night when lit up; best experienced by car or cab.",
+    "images": [
+      "https://images.unsplash.com/photo-1569758267239-d08deb78bb1a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmFuZHJhJTIwd29ybGklMjBzZWElMjBsaW5rJTIwbXVtYmFpJTIwaW5kaWF8ZW58MHx8MHx8fDA%3D",
+      "https://media.istockphoto.com/id/522515669/photo/bandraworli-sea-link.webp?a=1&b=1&s=612x612&w=0&k=20&c=LD8fWZ-iRmRk0uEOOsMqZhNOicSCnV01cKQHVqVNWZU="
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Toll applies for vehicles (~\u20b985 one way for cars); free if viewed from Worli Sea Face",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Night drive or sunset from Worli Sea Face",
+    "avg_duration_min": 30,
+    "badge_color": "success",
+    "tags": [
+      "scenic",
+      "landmark",
+      "night-view",
+      "outdoor"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "haji-ali-dargah",
+    "name": "Haji Ali Dargah",
+    "category": "historical",
+    "locality": "Worli",
+    "description": "A 19th-century mosque and tomb built on a tiny islet, accessible via a narrow causeway that is only walkable at low tide. One of Mumbai's most visited religious sites.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mumbai_03-2016_12_Haji_Ali_Dargah.jpg/960px-Mumbai_03-2016_12_Haji_Ali_Dargah.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Haji-Ali-1.jpg/500px-Haji-Ali-1.jpg"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry; donations welcome",
+    "open_time": "05:30",
+    "close_time": "22:00",
+    "closed_on": [],
+    "best_time": "Morning or evening, check tide timings before visiting",
+    "avg_duration_min": 60,
+    "badge_color": "warning",
+    "tags": [
+      "religious",
+      "landmark",
+      "outdoor",
+      "tide-dependent"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "siddhivinayak-temple",
+    "name": "Siddhivinayak Temple",
+    "category": "historical",
+    "locality": "Prabhadevi",
+    "description": "One of Mumbai's most revered Ganesh temples, built in 1801. Hugely popular with devotees and celebrities; expect queues, especially on Tuesdays.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Shree_Siddhivinayak_Temple_Mumbai.jpg/500px-Shree_Siddhivinayak_Temple_Mumbai.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Img-07_Sri_Siddhivinayak_Jagdish_Mali.tif/lossy-page1-500px-Img-07_Sri_Siddhivinayak_Jagdish_Mali.tif.jpg"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free; VIP darshan tickets available for a fee on some days",
+    "open_time": "05:30",
+    "close_time": "21:50",
+    "closed_on": [],
+    "best_time": "Early morning to avoid queues (avoid Tuesdays if rushed)",
+    "avg_duration_min": 60,
+    "badge_color": "warning",
+    "tags": [
+      "religious",
+      "indoor",
+      "crowd-heavy"
+    ],
+    "is_outdoor": false
+  },
+  {
+    "id": "sanjay-gandhi-national-park",
+    "name": "Sanjay Gandhi National Park",
+    "category": "adventure",
+    "locality": "Borivali",
+    "description": "A sprawling 100+ sq km protected forest within city limits, home to leopards, deer, 250+ bird species, boating lakes, a lion & tiger safari, and the ancient Kanheri Caves.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/SGNP-Bombay.jpg",
+      "https://picsum.photos/seed/sanjay-gandhi-national-park-2/800/600"
+    ],
+    "entry_fee": 53,
+    "entry_fee_note": "~\u20b953 park entry for adults (varies); Lion/Tiger Safari \u20b955 adults/\u20b922 children extra; boating \u20b9150-250; closed Mondays",
+    "open_time": "07:30",
+    "close_time": "18:30",
+    "closed_on": [
+      1
+    ],
+    "best_time": "Morning, October to February",
+    "avg_duration_min": 180,
+    "badge_color": "danger",
+    "tags": [
+      "nature",
+      "wildlife",
+      "outdoor",
+      "park"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "kanheri-caves",
+    "name": "Kanheri Caves",
+    "category": "historical",
+    "locality": "Borivali (inside SGNP)",
+    "description": "A complex of over 100 rock-cut Buddhist caves carved between the 1st century BCE and 10th century CE, used as monasteries and prayer halls. Located inside Sanjay Gandhi National Park.",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zjpVQ0i3H6v2JkO4_VyDL9F9-zUoxbYd4Kgob6tjMA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-vWV4N-HHpAAsAJW3su7T9qdAbczuxeDAPnNp4YXewg&s"
+    ],
+    "entry_fee": 20,
+    "entry_fee_note": "\u20b920 Indians (separate from SGNP park entry); shuttle bus from park entrance ~\u20b944 one-way",
+    "open_time": "07:30",
+    "close_time": "17:00",
+    "closed_on": [
+      1
+    ],
+    "best_time": "Morning",
+    "avg_duration_min": 150,
+    "badge_color": "warning",
+    "tags": [
+      "unesco-adjacent",
+      "historical",
+      "outdoor",
+      "caves"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "juhu-beach",
+    "name": "Juhu Beach",
+    "category": "nature",
+    "locality": "Juhu",
+    "description": "Mumbai's most famous beach, lined with food stalls selling pav bhaji, bhel puri and pani puri. Popular for evening walks, horse rides, and people-watching near celebrity homes.",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTizyWAu7tUQJLVPWGuhgeO1ROiDlxk85mC6b_25IhvrQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0tGPTwL27GIkDLWwwi7RHHbZLGZpwGo4arWWQx36qZg&s=10"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Evening, especially sunset",
+    "avg_duration_min": 90,
+    "badge_color": "success",
+    "tags": [
+      "beach",
+      "sunset_spot",
+      "outdoor",
+      "food",
+      "crowd-heavy"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "iskcon-juhu",
+    "name": "ISKCON Temple (Sri Sri Radha Rasabihari Mandir)",
+    "category": "historical",
+    "locality": "Juhu",
+    "description": "A large, peaceful Krishna temple complex with marble architecture, regular aarti ceremonies, a vegetarian restaurant (Govinda's), and bookstore.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iskcon_temple%2C_Juhu%2C_Mumbai.JPG/500px-Iskcon_temple%2C_Juhu%2C_Mumbai.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ISKCON_Juhu.jpg/500px-ISKCON_Juhu.jpg"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free; donations welcome",
+    "open_time": "04:30",
+    "close_time": "21:00",
+    "closed_on": [],
+    "best_time": "Evening aarti (around 19:00)",
+    "avg_duration_min": 60,
+    "badge_color": "warning",
+    "tags": [
+      "religious",
+      "indoor",
+      "peaceful"
+    ],
+    "is_outdoor": false
+  },
+  {
+    "id": "colaba-causeway",
+    "name": "Colaba Causeway Market",
+    "category": "shopping",
+    "locality": "Colaba",
+    "description": "A bustling street market stretching from Regal Cinema to Sassoon Dock, packed with stalls selling clothes, accessories, antiques, footwear and souvenirs at negotiable prices.",
+    "images": [
+      "https://media.gettyimages.com/id/90517334/photo/india-home-decoration-available-in-the-colaba-causeway-in-mumbai-maharashtra-india.jpg?s=612x612&w=0&k=20&c=Xp_RkyJgbogxvQGc7AQtFQttzHSbtKjm-gZT1HGalWQ=",
+      "https://media.gettyimages.com/id/90517330/photo/india-home-decoration-available-in-the-colaba-causeway-in-mumbai-maharashtra-india.jpg?s=612x612&w=0&k=20&c=Jpd71qKQwnDWC_KYHIA3wluwnw3NFMQbhVFGd-mV7WM="
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry; bring cash for bargaining",
+    "open_time": "10:00",
+    "close_time": "22:00",
+    "closed_on": [],
+    "best_time": "Evening",
+    "avg_duration_min": 90,
+    "badge_color": "primary",
+    "tags": [
+      "shopping",
+      "outdoor",
+      "street-market",
+      "crowd-heavy"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "linking-road",
+    "name": "Linking Road, Bandra",
+    "category": "shopping",
+    "locality": "Bandra West",
+    "description": "A long shopping street famous for trendy, budget clothing, footwear and accessories. Street stalls and branded outlets sit side by side.",
+    "images": [
+      "https://cdn1.tripoto.com/media/filter/nl/img/2380291/Image/1707228015_linking_road_market_bandra_mumbai.jpg.webp",
+      "https://cdn1.tripoto.com/media/filter/tst/img/2005307/TripDocument/1596214963_22794181_1716678991699013_6786648837122424832_n.jpg.webp"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry",
+    "open_time": "11:00",
+    "close_time": "22:00",
+    "closed_on": [],
+    "best_time": "Afternoon to evening",
+    "avg_duration_min": 90,
+    "badge_color": "primary",
+    "tags": [
+      "shopping",
+      "outdoor",
+      "street-market"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "crawford-market",
+    "name": "Crawford Market (Mahatma Jyotiba Phule Mandai)",
+    "category": "shopping",
+    "locality": "Fort/CST area",
+    "description": "A 19th-century covered market hall designed in Norman-Gothic style, famous for fresh produce, spices, dry fruits, pets, and household goods.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Crawford_Market.png/500px-Crawford_Market.png",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/93/0e/2d/caption.jpg?w=1400&h=800&s=1"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry",
+    "open_time": "11:00",
+    "close_time": "20:00",
+    "closed_on": [
+      0
+    ],
+    "best_time": "Morning to early afternoon",
+    "avg_duration_min": 60,
+    "badge_color": "primary",
+    "tags": [
+      "shopping",
+      "indoor-outdoor",
+      "market",
+      "architecture"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "dharavi",
+    "name": "Dharavi",
+    "category": "adventure",
+    "locality": "Dharavi",
+    "description": "One of Asia's largest urban settlements with a thriving informal economy of recycling, leather, pottery and textile industries. Guided walking tours offer respectful, educational insight.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dharavi_India.jpg/500px-Dharavi_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Pottery_unit_in_Dharavi%2C_Mumbai.jpg/500px-Pottery_unit_in_Dharavi%2C_Mumbai.jpg"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free to walk; guided tours typically \u20b9700-1500 per person, photography restricted in residential areas",
+    "open_time": "09:00",
+    "close_time": "18:00",
+    "closed_on": [
+      0
+    ],
+    "best_time": "Morning, guided tour recommended",
+    "avg_duration_min": 150,
+    "badge_color": "danger",
+    "tags": [
+      "cultural",
+      "outdoor",
+      "guided-tour-recommended"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "dhobi-ghat",
+    "name": "Mahalaxmi Dhobi Ghat",
+    "category": "historical",
+    "locality": "Mahalaxmi",
+    "description": "A vast open-air laundromat where hundreds of dhobis (washermen) wash clothes in rows of concrete wash pens \u2014 a striking sight best viewed from the Mahalaxmi station bridge.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dhobi_Ghat_in_Mumbai.jpg/500px-Dhobi_Ghat_in_Mumbai.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dhobi_Ghat_in_Mumbai.jpg/500px-Dhobi_Ghat_in_Mumbai.jpg"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free to view from the bridge; small fee may apply to walk inside with a guide",
+    "open_time": "06:00",
+    "close_time": "18:00",
+    "closed_on": [],
+    "best_time": "Morning, when washing is in full swing",
+    "avg_duration_min": 30,
+    "badge_color": "warning",
+    "tags": [
+      "cultural",
+      "outdoor",
+      "photography"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "bademiya",
+    "name": "Bademiya",
+    "category": "food",
+    "locality": "Colaba",
+    "description": "A legendary late-night street food institution since 1946, famous for seekh kebabs, chicken tikka rolls and butter naan. Steps away from Taj Mahal Palace Hotel.",
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/596651b8e4fcb591d93241e9/1519831087587-UQGUF2YFNRVTYCGOQ9UX/IMG_8176.jpg?format=2500whttps://picsum.photos/seed/bademiya-1/800/600",
+      "https://d2kihw5e8drjh5.cloudfront.net/eyJidWNrZXQiOiJ1dGEtaW1hZ2VzIiwia2V5IjoicGxhY2VfaW1nL2Q0Y2MxMjljYjMzZDRhNjNhMjRkZWQ1ZGI2NjJmYzg1IiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2NDAsImhlaWdodCI6NjQwLCJmaXQiOiJpbnNpZGUifSwicm90YXRlIjpudWxsLCJ0b0Zvcm1hdCI6ICJ3ZWJwIn19"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "No entry fee; meal cost approx \u20b9300-500 per person",
+    "open_time": "12:00",
+    "close_time": "03:00",
+    "closed_on": [],
+    "best_time": "Late evening / night",
+    "avg_duration_min": 45,
+    "badge_color": "info",
+    "tags": [
+      "street-food",
+      "outdoor",
+      "night"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "khau-gully-cst",
+    "name": "Khau Gully, CST",
+    "category": "food",
+    "locality": "Fort / CST",
+    "description": "A famous food lane near CST station crammed with stalls serving vada pav, pav bhaji, sandwiches, and chaat \u2014 a true taste of Mumbai's street food culture.",
+    "images": [
+      "https://content3.jdmagicbox.com/v2/comp/mumbai/z9/022pxx22.xx22.220125143650.p9z9/catalogue/khau-galli-marine-lines-mumbai-food-court-55ozl2kxuu.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXALYUnTLQhn2qATJ8uvA0VQURct61IbAY0FpZ_CJMqeiQ6eT1d_OakYI&s=10"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "No entry fee; per-item cost \u20b920-100",
+    "open_time": "11:00",
+    "close_time": "22:00",
+    "closed_on": [],
+    "best_time": "Lunch or evening snack time",
+    "avg_duration_min": 45,
+    "badge_color": "info",
+    "tags": [
+      "street-food",
+      "outdoor",
+      "budget"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "mohammed-ali-road",
+    "name": "Mohammed Ali Road Food Street",
+    "category": "food",
+    "locality": "Bhendi Bazaar",
+    "description": "Mumbai's most famous Ramadan food street, transforming into a massive open-air feast of kebabs, biryani, malpua and sweets every evening during Ramadan, with many stalls active year-round.",
+    "images": [
+      "https://static.toiimg.com/thumb/59288183.cms?width=600&resizemode=4",
+      "https://www.dishoom.com/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fdaku84np%2Fproduction%2Fa012c7e550ad5143314a67c004a7b49ce468a566-1200x900.jpg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "No entry fee; meal cost \u20b9150-400 per person",
+    "open_time": "17:00",
+    "close_time": "01:00",
+    "closed_on": [],
+    "best_time": "Evening, especially during Ramadan",
+    "avg_duration_min": 60,
+    "badge_color": "info",
+    "tags": [
+      "street-food",
+      "outdoor",
+      "night",
+      "seasonal-highlight"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "leopold-cafe",
+    "name": "Leopold Cafe",
+    "category": "food",
+    "locality": "Colaba",
+    "description": "An iconic 1871-established cafe and bar in Colaba, popular with travellers and immortalised in the novel Shantaram. Known for its old-world charm and varied menu.",
+    "images": [
+      "https://media.gettyimages.com/id/148721740/photo/leopolds-cafe-in-colaba.jpg?s=612x612&w=0&k=20&c=qPZ7QSz1jV4UvaR_sG8wyCUzAZg4m0bvNRgrGbeWw_4=",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/LeopoldCafe2_gobeirne.jpg/500px-LeopoldCafe2_gobeirne.jpg"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "No entry fee; meal cost \u20b9600-1200 per person",
+    "open_time": "08:00",
+    "close_time": "00:30",
+    "closed_on": [],
+    "best_time": "Anytime",
+    "avg_duration_min": 60,
+    "badge_color": "info",
+    "tags": [
+      "cafe",
+      "indoor",
+      "historic"
+    ],
+    "is_outdoor": false
+  },
+  {
+    "id": "global-vipassana-pagoda",
+    "name": "Global Vipassana Pagoda",
+    "category": "historical",
+    "locality": "Gorai",
+    "description": "A massive golden dome inspired by Myanmar's Shwedagon Pagoda, built as a monument of peace and harmony. Houses the world's largest hollow stone dome without pillar support, with relics of the Buddha.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/GlobalVipasanaPagoda.JPG/960px-GlobalVipasanaPagoda.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Truly_gold_Global_Vipassana_Pagoda.jpg/960px-Truly_gold_Global_Vipassana_Pagoda.jpg"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry; reached via ferry from Gorai jetty (~\u20b910-30)",
+    "open_time": "09:00",
+    "close_time": "19:00",
+    "closed_on": [
+      1
+    ],
+    "best_time": "Morning or late afternoon",
+    "avg_duration_min": 120,
+    "badge_color": "warning",
+    "tags": [
+      "religious",
+      "architecture",
+      "outdoor",
+      "ferry-required"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "adlabs-imagica",
+    "name": "Adlabs Imagica Theme Park",
+    "category": "adventure",
+    "locality": "Khopoli (near Mumbai-Pune Expressway)",
+    "description": "India's first international-standard theme park with major rides like Wagon-O-O-Wheel, Nitro, and Rajasaurus River Adventure, plus a water park (Aquamagica) and snow park (Snomagica).",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNPdDbuQMItI9cuWHnBtWS-tSc6gSc8YM8e4LztnQfJJYHNKJky_RvgWE&s=10",
+      "https://d3gw4aml0lneeh.cloudfront.net/assets/locations/14051/0M8gva9WoZ7c.jpg"
+    ],
+    "entry_fee": 1500,
+    "entry_fee_note": "Single park tickets approx \u20b91500-2000, combo packages higher; book online for discounts",
+    "open_time": "11:00",
+    "close_time": "19:00",
+    "closed_on": [],
+    "best_time": "Full day trip, weekday preferred",
+    "avg_duration_min": 480,
+    "badge_color": "danger",
+    "tags": [
+      "amusement-park",
+      "outdoor",
+      "family",
+      "day-trip"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "nehru-planetarium",
+    "name": "Nehru Planetarium",
+    "category": "sightseeing",
+    "locality": "Worli",
+    "description": "A science museum and planetarium offering astronomy shows and exhibits on space science, popular with families and school groups.",
+    "images": [
+      "https://res.cloudinary.com/dyiffrkzh/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_center,h_400,q_auto,w_700/v1686910866/bbj/kaga3evswuocqwxzfn6h.jpg",
+      "https://www.trodly.com/pictures/attraction/5368.jpg"
+    ],
+    "entry_fee": 100,
+    "entry_fee_note": "Approx \u20b9100 for sky show; varies by show and age group",
+    "open_time": "11:00",
+    "close_time": "18:00",
+    "closed_on": [
+      1
+    ],
+    "best_time": "Afternoon shows",
+    "avg_duration_min": 90,
+    "badge_color": "warning",
+    "tags": [
+      "museum",
+      "indoor",
+      "science",
+      "family"
+    ],
+    "is_outdoor": false
+  },
+  {
+    "id": "nehru-science-centre",
+    "name": "Nehru Science Centre",
+    "category": "sightseeing",
+    "locality": "Worli",
+    "description": "India's largest interactive science museum with hands-on exhibits covering physics, technology, and space exploration \u2014 great for curious minds of all ages.",
+    "images": [
+      "https://nehrusciencecentre.gov.in/wp-content/uploads/2022/03/Brain-and-Senses-Exhibit.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Nehru_science_center18.JPG/250px-Nehru_science_center18.JPG"
+    ],
+    "entry_fee": 90,
+    "entry_fee_note": "Approx \u20b990 for adults; combo with planetarium available",
+    "open_time": "10:00",
+    "close_time": "18:00",
+    "closed_on": [],
+    "best_time": "Morning",
+    "avg_duration_min": 120,
+    "badge_color": "warning",
+    "tags": [
+      "museum",
+      "indoor",
+      "science",
+      "family"
+    ],
+    "is_outdoor": false
+  },
+  {
+    "id": "hanging-gardens",
+    "name": "Hanging Gardens (Pherozeshah Mehta Gardens)",
+    "category": "nature",
+    "locality": "Malabar Hill",
+    "description": "Terraced gardens atop Malabar Hill known for hedges shaped like animals, walking paths, and panoramic sunset views over the Arabian Sea and Marine Drive.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Old-Womans-shoe.jpg/250px-Old-Womans-shoe.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjbc2RMcrUOt_KKrzefrR-kod9nWG4l6FyR3wwdvBww&s=10"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry",
+    "open_time": "05:00",
+    "close_time": "21:00",
+    "closed_on": [],
+    "best_time": "Sunset",
+    "avg_duration_min": 45,
+    "badge_color": "success",
+    "tags": [
+      "park",
+      "scenic",
+      "sunset_spot",
+      "outdoor"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "kamala-nehru-park",
+    "name": "Kamala Nehru Park",
+    "category": "nature",
+    "locality": "Malabar Hill",
+    "description": "A small hilltop garden famous for the 'Old Woman's Shoe' structure and one of the best viewpoints over Marine Drive and the Queen's Necklace at night.",
+    "images": [
+      "https://cdn1.tripoto.com/media/filter/nl/img/2380291/Image/1707141962_n0000169621_2.jpg.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI6anxqXGCjp17sdAi-K5_gk51-yMWLs7MN-LeAA--b-VL8L2lKxbcrKw&s=10"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry",
+    "open_time": "06:00",
+    "close_time": "21:00",
+    "closed_on": [],
+    "best_time": "Evening for the Marine Drive view",
+    "avg_duration_min": 30,
+    "badge_color": "success",
+    "tags": [
+      "park",
+      "viewpoint",
+      "sunset_spot",
+      "outdoor",
+      "family"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "worli-sea-face",
+    "name": "Worli Sea Face",
+    "category": "nature",
+    "locality": "Worli",
+    "description": "A quieter seaside promenade offering views of the Bandra-Worli Sea Link, especially dramatic during monsoon when waves crash over the wall.",
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/20/d0/99/photo0jpg.jpg?w=900&h=-1&s=1",
+      "https://images.mid-day.com/images/images/2025/may/Worli-Sea-1748126166457_d.png"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Evening, especially during monsoon",
+    "avg_duration_min": 45,
+    "badge_color": "success",
+    "tags": [
+      "scenic",
+      "waterfront",
+      "outdoor",
+      "monsoon-special"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "bandra-fort",
+    "name": "Bandra Fort (Castella de Aguada)",
+    "category": "historical",
+    "locality": "Bandra",
+    "description": "A 17th-century Portuguese watchtower ruin on a rocky outcrop overlooking the sea and the Bandra-Worli Sea Link \u2014 a compact but scenic heritage spot.",
+    "images": [
+      "https://picsum.photos/seed/bandra-fort-1/800/600",
+      "https://picsum.photos/seed/bandra-fort-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry",
+    "open_time": "06:00",
+    "close_time": "22:00",
+    "closed_on": [],
+    "best_time": "Evening / sunset",
+    "avg_duration_min": 30,
+    "badge_color": "warning",
+    "tags": [
+      "historical",
+      "viewpoint",
+      "sunset_spot",
+      "outdoor"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "mount-mary-church",
+    "name": "Mount Mary Church (Basilica of Our Lady of the Mount)",
+    "category": "historical",
+    "locality": "Bandra",
+    "description": "A 16th-century Roman Catholic basilica perched on a hill overlooking the sea, famous for its annual Bandra Fair (Mount Mary Fair) every September.",
+    "images": [
+      "https://picsum.photos/seed/mount-mary-church-1/800/600",
+      "https://picsum.photos/seed/mount-mary-church-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry",
+    "open_time": "06:00",
+    "close_time": "20:00",
+    "closed_on": [],
+    "best_time": "Morning or during the September fair",
+    "avg_duration_min": 30,
+    "badge_color": "warning",
+    "tags": [
+      "religious",
+      "architecture",
+      "outdoor",
+      "viewpoint"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "bandra-bandstand",
+    "name": "Bandstand Promenade",
+    "category": "nature",
+    "locality": "Bandra",
+    "description": "A seafront promenade near Bandra Fort, popular for evening walks and known for being close to several Bollywood celebrity residences, including Shah Rukh Khan's Mannat.",
+    "images": [
+      "https://picsum.photos/seed/bandra-bandstand-1/800/600",
+      "https://picsum.photos/seed/bandra-bandstand-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Evening",
+    "avg_duration_min": 45,
+    "badge_color": "success",
+    "tags": [
+      "scenic",
+      "waterfront",
+      "outdoor",
+      "celebrity-spotting"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "jvpd-scheme",
+    "name": "JVPD Scheme & Juhu Tara Road",
+    "category": "sightseeing",
+    "locality": "Juhu / Vile Parle",
+    "description": "An upscale residential area near Juhu, lined with celebrity bungalows, trendy cafes and boutiques \u2014 a popular spot for a relaxed walk.",
+    "images": [
+      "https://picsum.photos/seed/jvpd-scheme-1/800/600",
+      "https://picsum.photos/seed/jvpd-scheme-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free, public roads",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Evening",
+    "avg_duration_min": 60,
+    "badge_color": "secondary",
+    "tags": [
+      "sightseeing",
+      "outdoor",
+      "celebrity-spotting",
+      "cafes"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "powai-lake",
+    "name": "Powai Lake",
+    "category": "nature",
+    "locality": "Powai",
+    "description": "An artificial lake created in 1891, surrounded by upscale neighbourhoods, cafes, and walking paths \u2014 a calm escape with occasional bird sightings.",
+    "images": [
+      "https://picsum.photos/seed/powai-lake-1/800/600",
+      "https://picsum.photos/seed/powai-lake-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Early morning or evening",
+    "avg_duration_min": 45,
+    "badge_color": "success",
+    "tags": [
+      "lake",
+      "outdoor",
+      "walking",
+      "peaceful"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "film-city",
+    "name": "Dadasaheb Phalke Chitranagari (Film City)",
+    "category": "sightseeing",
+    "locality": "Goregaon",
+    "description": "Mumbai's iconic Bollywood film studio complex, with guided tours showing outdoor sets, gardens, and lakes used in countless films and shows.",
+    "images": [
+      "https://picsum.photos/seed/film-city-1/800/600",
+      "https://picsum.photos/seed/film-city-2/800/600"
+    ],
+    "entry_fee": 600,
+    "entry_fee_note": "Guided tour packages typically \u20b9600-1500 depending on duration and inclusions; advance booking recommended",
+    "open_time": "09:00",
+    "close_time": "18:00",
+    "closed_on": [],
+    "best_time": "Morning, advance booking required",
+    "avg_duration_min": 180,
+    "badge_color": "secondary",
+    "tags": [
+      "bollywood",
+      "outdoor",
+      "guided-tour-recommended"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "rajabai-clock-tower",
+    "name": "Rajabai Clock Tower",
+    "category": "historical",
+    "locality": "Fort / University of Mumbai",
+    "description": "A 280-foot Venetian Gothic clock tower within the University of Mumbai campus, part of the Victorian Gothic and Art Deco Ensembles UNESCO listing.",
+    "images": [
+      "https://picsum.photos/seed/rajabai-clock-tower-1/800/600",
+      "https://picsum.photos/seed/rajabai-clock-tower-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free to view from outside; campus access may require permission",
+    "open_time": "08:00",
+    "close_time": "18:00",
+    "closed_on": [
+      0
+    ],
+    "best_time": "Daytime for photography",
+    "avg_duration_min": 20,
+    "badge_color": "warning",
+    "tags": [
+      "unesco",
+      "architecture",
+      "outdoor"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "bombay-high-court",
+    "name": "Bombay High Court",
+    "category": "historical",
+    "locality": "Fort",
+    "description": "An 1870s Gothic Revival courthouse with two octagonal towers, one of South Mumbai's finest examples of colonial architecture. Visitors can view court proceedings.",
+    "images": [
+      "https://picsum.photos/seed/bombay-high-court-1/800/600",
+      "https://picsum.photos/seed/bombay-high-court-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free; ID may be required for entry, security checks apply",
+    "open_time": "10:30",
+    "close_time": "17:30",
+    "closed_on": [
+      0
+    ],
+    "best_time": "Weekday morning",
+    "avg_duration_min": 45,
+    "badge_color": "warning",
+    "tags": [
+      "architecture",
+      "outdoor",
+      "heritage"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "flora-fountain",
+    "name": "Flora Fountain (Hutatma Chowk)",
+    "category": "historical",
+    "locality": "Fort",
+    "description": "An ornately sculpted 1869 fountain at a busy traffic intersection in the financial district, surrounded by colonial-era buildings.",
+    "images": [
+      "https://picsum.photos/seed/flora-fountain-1/800/600",
+      "https://picsum.photos/seed/flora-fountain-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Daytime",
+    "avg_duration_min": 20,
+    "badge_color": "warning",
+    "tags": [
+      "architecture",
+      "outdoor",
+      "landmark"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "kala-ghoda",
+    "name": "Kala Ghoda Art Precinct",
+    "category": "sightseeing",
+    "locality": "Fort",
+    "description": "An art and culture hub featuring galleries, the David Sassoon Library, street art, boutique cafes, and the annual Kala Ghoda Arts Festival every February.",
+    "images": [
+      "https://picsum.photos/seed/kala-ghoda-1/800/600",
+      "https://picsum.photos/seed/kala-ghoda-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free to walk around; individual galleries/cafes charge separately",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Daytime, especially during the February arts festival",
+    "avg_duration_min": 90,
+    "badge_color": "secondary",
+    "tags": [
+      "art",
+      "culture",
+      "outdoor",
+      "cafes"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "jehangir-art-gallery",
+    "name": "Jehangir Art Gallery",
+    "category": "sightseeing",
+    "locality": "Kala Ghoda",
+    "description": "One of India's most prominent art galleries, hosting rotating exhibitions of contemporary and modern Indian art since 1952. Adjacent to the Samovar Cafe.",
+    "images": [
+      "https://picsum.photos/seed/jehangir-art-gallery-1/800/600",
+      "https://picsum.photos/seed/jehangir-art-gallery-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry to most exhibitions",
+    "open_time": "11:00",
+    "close_time": "19:00",
+    "closed_on": [],
+    "best_time": "Afternoon",
+    "avg_duration_min": 60,
+    "badge_color": "secondary",
+    "tags": [
+      "art",
+      "indoor",
+      "gallery"
+    ],
+    "is_outdoor": false
+  },
+  {
+    "id": "taj-mahal-palace",
+    "name": "Taj Mahal Palace Hotel",
+    "category": "historical",
+    "locality": "Colaba",
+    "description": "An opulent heritage hotel opened in 1903, an architectural landmark combining Moorish, Oriental and Florentine styles, located right next to the Gateway of India.",
+    "images": [
+      "https://picsum.photos/seed/taj-mahal-palace-1/800/600",
+      "https://picsum.photos/seed/taj-mahal-palace-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free to view exterior; high-tea and dining experiences are paid",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Evening when illuminated",
+    "avg_duration_min": 20,
+    "badge_color": "warning",
+    "tags": [
+      "architecture",
+      "landmark",
+      "outdoor",
+      "luxury"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "essentially-mumbai-heritage-walk",
+    "name": "Fort Heritage Walk",
+    "category": "sightseeing",
+    "locality": "Fort",
+    "description": "A self-guided or organised walking route through Mumbai's Fort area covering Horniman Circle, St. Thomas Cathedral, Asiatic Society Library, and colonial-era arcades.",
+    "images": [
+      "https://picsum.photos/seed/essentially-mumbai-heritage-walk-1/800/600",
+      "https://picsum.photos/seed/essentially-mumbai-heritage-walk-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free for self-guided; guided heritage walks typically \u20b9300-800",
+    "open_time": "07:00",
+    "close_time": "19:00",
+    "closed_on": [],
+    "best_time": "Early morning or late afternoon",
+    "avg_duration_min": 120,
+    "badge_color": "secondary",
+    "tags": [
+      "heritage",
+      "outdoor",
+      "walking-tour"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "horniman-circle-garden",
+    "name": "Horniman Circle Gardens",
+    "category": "nature",
+    "locality": "Fort",
+    "description": "A landscaped circular garden in the heart of the Fort district, surrounded by Neo-Classical buildings including the Town Hall and Asiatic Society.",
+    "images": [
+      "https://picsum.photos/seed/horniman-circle-garden-1/800/600",
+      "https://picsum.photos/seed/horniman-circle-garden-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry",
+    "open_time": "06:00",
+    "close_time": "20:00",
+    "closed_on": [],
+    "best_time": "Morning or early evening",
+    "avg_duration_min": 30,
+    "badge_color": "success",
+    "tags": [
+      "park",
+      "architecture",
+      "outdoor"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "veermata-jijabai-zoo",
+    "name": "Veermata Jijabai Bhonsle Udyan (Byculla Zoo)",
+    "category": "sightseeing",
+    "locality": "Byculla",
+    "description": "Mumbai's main zoo and botanical garden, home to the Bhau Daji Lad Museum and a popular family attraction with a variety of animals including a humboldt penguin enclosure.",
+    "images": [
+      "https://picsum.photos/seed/veermata-jijabai-zoo-1/800/600",
+      "https://picsum.photos/seed/veermata-jijabai-zoo-2/800/600"
+    ],
+    "entry_fee": 25,
+    "entry_fee_note": "Approx \u20b925-50 for adults; closed on Wednesdays",
+    "open_time": "09:00",
+    "close_time": "17:00",
+    "closed_on": [
+      3
+    ],
+    "best_time": "Morning",
+    "avg_duration_min": 120,
+    "badge_color": "danger",
+    "tags": [
+      "zoo",
+      "outdoor",
+      "family"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "bhau-daji-lad-museum",
+    "name": "Dr. Bhau Daji Lad Museum",
+    "category": "historical",
+    "locality": "Byculla",
+    "description": "Mumbai's oldest museum (established 1872), beautifully restored, showcasing the city's social and cultural history through art, photographs, and decorative objects.",
+    "images": [
+      "https://picsum.photos/seed/bhau-daji-lad-museum-1/800/600",
+      "https://picsum.photos/seed/bhau-daji-lad-museum-2/800/600"
+    ],
+    "entry_fee": 100,
+    "entry_fee_note": "Approx \u20b9100 for Indian adults",
+    "open_time": "10:00",
+    "close_time": "17:30",
+    "closed_on": [
+      3
+    ],
+    "best_time": "Anytime (indoor)",
+    "avg_duration_min": 90,
+    "badge_color": "warning",
+    "tags": [
+      "museum",
+      "indoor",
+      "history",
+      "architecture"
+    ],
+    "is_outdoor": false
+  },
+  {
+    "id": "sassoon-dock",
+    "name": "Sassoon Dock",
+    "category": "sightseeing",
+    "locality": "Colaba",
+    "description": "Mumbai's oldest dock, a working fishing harbour where colourful fishing boats unload their catch each morning \u2014 a raw, authentic slice of the city's maritime life.",
+    "images": [
+      "https://picsum.photos/seed/sassoon-dock-1/800/600",
+      "https://picsum.photos/seed/sassoon-dock-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free; can be crowded and have strong fish odour",
+    "open_time": "05:00",
+    "close_time": "09:00",
+    "closed_on": [],
+    "best_time": "Very early morning (5-7 AM)",
+    "avg_duration_min": 30,
+    "badge_color": "secondary",
+    "tags": [
+      "cultural",
+      "outdoor",
+      "photography",
+      "early-morning-only"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "antilia-viewpoint",
+    "name": "Antilia & Malabar Hill Walk",
+    "category": "sightseeing",
+    "locality": "Malabar Hill",
+    "description": "A scenic residential walk past Mumbai's most expensive properties, including Antilia (Mukesh Ambani's residence), with sea views along the way.",
+    "images": [
+      "https://picsum.photos/seed/antilia-viewpoint-1/800/600",
+      "https://picsum.photos/seed/antilia-viewpoint-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free; public roads only, no entry to private property",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Evening",
+    "avg_duration_min": 45,
+    "badge_color": "secondary",
+    "tags": [
+      "sightseeing",
+      "outdoor",
+      "walking"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "babulnath-temple",
+    "name": "Babulnath Temple",
+    "category": "historical",
+    "locality": "Malabar Hill",
+    "description": "An ancient Shiva temple atop a small hill near Chowpatty, accessible by a flight of steps, with panoramic views of the city and sea.",
+    "images": [
+      "https://picsum.photos/seed/babulnath-temple-1/800/600",
+      "https://picsum.photos/seed/babulnath-temple-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry",
+    "open_time": "05:00",
+    "close_time": "21:00",
+    "closed_on": [],
+    "best_time": "Morning or evening",
+    "avg_duration_min": 30,
+    "badge_color": "warning",
+    "tags": [
+      "religious",
+      "outdoor",
+      "viewpoint"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "mani-bhavan",
+    "name": "Mani Bhavan Gandhi Museum",
+    "category": "historical",
+    "locality": "Gamdevi",
+    "description": "The house where Mahatma Gandhi stayed during his visits to Mumbai between 1917-1934, now a museum with photographs, letters, and a library dedicated to his life.",
+    "images": [
+      "https://picsum.photos/seed/mani-bhavan-1/800/600",
+      "https://picsum.photos/seed/mani-bhavan-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry; donations welcome",
+    "open_time": "09:30",
+    "close_time": "18:00",
+    "closed_on": [],
+    "best_time": "Anytime (indoor)",
+    "avg_duration_min": 60,
+    "badge_color": "warning",
+    "tags": [
+      "museum",
+      "indoor",
+      "history"
+    ],
+    "is_outdoor": false
+  },
+  {
+    "id": "marine-drive-art-deco",
+    "name": "Marine Drive Art Deco Buildings",
+    "category": "historical",
+    "locality": "Marine Drive",
+    "description": "A row of pastel-coloured Art Deco apartment buildings from the 1930s-40s lining Marine Drive, part of Mumbai's UNESCO-listed Art Deco ensemble.",
+    "images": [
+      "https://picsum.photos/seed/marine-drive-art-deco-1/800/600",
+      "https://picsum.photos/seed/marine-drive-art-deco-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free to view from the street",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Daytime for photography, evening for ambience",
+    "avg_duration_min": 30,
+    "badge_color": "warning",
+    "tags": [
+      "unesco",
+      "architecture",
+      "outdoor"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "trishna-restaurant",
+    "name": "Trishna",
+    "category": "food",
+    "locality": "Fort",
+    "description": "A celebrated seafood restaurant near Kala Ghoda, famous for its butter garlic crab and koliwada prawns \u2014 a favourite among food critics and tourists alike.",
+    "images": [
+      "https://picsum.photos/seed/trishna-restaurant-1/800/600",
+      "https://picsum.photos/seed/trishna-restaurant-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "No entry fee; meal cost \u20b91500-3000 per person",
+    "open_time": "12:00",
+    "close_time": "23:00",
+    "closed_on": [],
+    "best_time": "Dinner",
+    "avg_duration_min": 90,
+    "badge_color": "info",
+    "tags": [
+      "fine-dining",
+      "seafood",
+      "indoor"
+    ],
+    "is_outdoor": false
+  },
+  {
+    "id": "elco-market-pani-puri",
+    "name": "Elco Market Pani Puri Corner",
+    "category": "food",
+    "locality": "Bandra",
+    "description": "A famous chaat hub inside Elco Arcade in Bandra, best known for its pani puri, ragda pattice, and other Mumbai chaat classics.",
+    "images": [
+      "https://picsum.photos/seed/elco-market-pani-puri-1/800/600",
+      "https://picsum.photos/seed/elco-market-pani-puri-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "No entry fee; per-plate cost \u20b950-150",
+    "open_time": "16:00",
+    "close_time": "23:00",
+    "closed_on": [],
+    "best_time": "Evening snack time",
+    "avg_duration_min": 30,
+    "badge_color": "info",
+    "tags": [
+      "street-food",
+      "indoor-outdoor",
+      "chaat"
+    ],
+    "is_outdoor": false
+  },
+  {
+    "id": "shree-thaker-bhojanalay",
+    "name": "Shree Thaker Bhojanalay",
+    "category": "food",
+    "locality": "Kalbadevi",
+    "description": "An institution since 1945 serving authentic, unlimited Gujarati and Kathiawadi thalis in a traditional dining hall setting.",
+    "images": [
+      "https://picsum.photos/seed/shree-thaker-bhojanalay-1/800/600",
+      "https://picsum.photos/seed/shree-thaker-bhojanalay-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "No entry fee; thali cost approx \u20b9500-700 per person",
+    "open_time": "11:00",
+    "close_time": "22:30",
+    "closed_on": [],
+    "best_time": "Lunch",
+    "avg_duration_min": 60,
+    "badge_color": "info",
+    "tags": [
+      "thali",
+      "indoor",
+      "vegetarian",
+      "traditional"
+    ],
+    "is_outdoor": false
+  },
+  {
+    "id": "phoenix-marketcity",
+    "name": "Phoenix Marketcity, Kurla",
+    "category": "shopping",
+    "locality": "Kurla",
+    "description": "One of Mumbai's largest shopping malls with international and domestic brands, a multiplex, food court, and entertainment zones.",
+    "images": [
+      "https://picsum.photos/seed/phoenix-marketcity-1/800/600",
+      "https://picsum.photos/seed/phoenix-marketcity-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry; parking charges apply",
+    "open_time": "10:00",
+    "close_time": "23:00",
+    "closed_on": [],
+    "best_time": "Afternoon to evening, avoid peak heat",
+    "avg_duration_min": 150,
+    "badge_color": "primary",
+    "tags": [
+      "mall",
+      "indoor",
+      "shopping",
+      "family"
+    ],
+    "is_outdoor": false
+  },
+  {
+    "id": "high-street-phoenix",
+    "name": "High Street Phoenix & Palladium",
+    "category": "shopping",
+    "locality": "Lower Parel",
+    "description": "A premium mall complex combining luxury retail (Palladium), a large food court, multiplex, and entertainment zones in a renovated mill compound.",
+    "images": [
+      "https://picsum.photos/seed/high-street-phoenix-1/800/600",
+      "https://picsum.photos/seed/high-street-phoenix-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry; parking charges apply",
+    "open_time": "10:00",
+    "close_time": "23:00",
+    "closed_on": [],
+    "best_time": "Afternoon to evening",
+    "avg_duration_min": 150,
+    "badge_color": "primary",
+    "tags": [
+      "mall",
+      "indoor",
+      "shopping",
+      "luxury"
+    ],
+    "is_outdoor": false
+  },
+  {
+    "id": "chor-bazaar",
+    "name": "Chor Bazaar",
+    "category": "shopping",
+    "locality": "Mutton Street, Byculla",
+    "description": "A famous flea market dating back over 150 years, known for antiques, vintage furniture, old Bollywood memorabilia, and curious second-hand finds.",
+    "images": [
+      "https://picsum.photos/seed/chor-bazaar-1/800/600",
+      "https://picsum.photos/seed/chor-bazaar-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry; closed Fridays",
+    "open_time": "11:00",
+    "close_time": "19:30",
+    "closed_on": [
+      4
+    ],
+    "best_time": "Saturday or Sunday morning",
+    "avg_duration_min": 90,
+    "badge_color": "primary",
+    "tags": [
+      "shopping",
+      "outdoor",
+      "antiques",
+      "market"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "worli-fishing-village",
+    "name": "Worli Koliwada (Fishing Village)",
+    "category": "sightseeing",
+    "locality": "Worli",
+    "description": "A traditional fishing community offering a glimpse into Mumbai's pre-colonial Koli heritage, with colourful boats, nets, and views of the Sea Link from the shore.",
+    "images": [
+      "https://picsum.photos/seed/worli-fishing-village-1/800/600",
+      "https://picsum.photos/seed/worli-fishing-village-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free; respectful visiting recommended",
+    "open_time": "06:00",
+    "close_time": "19:00",
+    "closed_on": [],
+    "best_time": "Early morning or evening",
+    "avg_duration_min": 45,
+    "badge_color": "secondary",
+    "tags": [
+      "cultural",
+      "outdoor",
+      "photography"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "versova-beach",
+    "name": "Versova Beach",
+    "category": "nature",
+    "locality": "Andheri West",
+    "description": "A quieter beach known for its fishing community, sunset views, and recent coastal clean-up efforts that restored it as a nesting site for Olive Ridley turtles.",
+    "images": [
+      "https://picsum.photos/seed/versova-beach-1/800/600",
+      "https://picsum.photos/seed/versova-beach-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Sunset",
+    "avg_duration_min": 45,
+    "badge_color": "success",
+    "tags": [
+      "beach",
+      "sunset_spot",
+      "outdoor",
+      "quiet"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "madh-island",
+    "name": "Madh Island",
+    "category": "nature",
+    "locality": "Malad West",
+    "description": "A laid-back coastal area with palm groves, a 16th-century Portuguese fort (Madh Fort), and quiet beaches popular for film shoots and weekend getaways.",
+    "images": [
+      "https://picsum.photos/seed/madh-island-1/800/600",
+      "https://picsum.photos/seed/madh-island-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry; ferry from Versova adds to the experience",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Daytime",
+    "avg_duration_min": 90,
+    "badge_color": "success",
+    "tags": [
+      "beach",
+      "outdoor",
+      "quiet",
+      "ferry-optional"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "vasai-fort",
+    "name": "Vasai Fort (Bassein Fort)",
+    "category": "historical",
+    "locality": "Vasai (Greater Mumbai)",
+    "description": "A sprawling ruined Portuguese fort dating to 1536, overtaken by greenery, with old churches and bastions \u2014 a favourite for history buffs and photographers.",
+    "images": [
+      "https://picsum.photos/seed/vasai-fort-1/800/600",
+      "https://picsum.photos/seed/vasai-fort-2/800/600"
+    ],
+    "entry_fee": 25,
+    "entry_fee_note": "Approx \u20b925 entry fee (ASI-protected monument)",
+    "open_time": "08:00",
+    "close_time": "18:00",
+    "closed_on": [],
+    "best_time": "Morning",
+    "avg_duration_min": 120,
+    "badge_color": "warning",
+    "tags": [
+      "historical",
+      "outdoor",
+      "ruins",
+      "photography"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "gorai-beach",
+    "name": "Gorai Beach",
+    "category": "nature",
+    "locality": "Gorai",
+    "description": "A clean, relatively uncrowded beach near the Global Vipassana Pagoda, popular for camel rides and a relaxed family day out.",
+    "images": [
+      "https://picsum.photos/seed/gorai-beach-1/800/600",
+      "https://picsum.photos/seed/gorai-beach-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry",
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "closed_on": [],
+    "best_time": "Daytime",
+    "avg_duration_min": 60,
+    "badge_color": "success",
+    "tags": [
+      "beach",
+      "outdoor",
+      "family"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "marine-drive-promenade-night",
+    "name": "Queen's Necklace Night View",
+    "category": "nature",
+    "locality": "Marine Drive (viewed from Malabar Hill)",
+    "description": "The famous nighttime view of Marine Drive's curved streetlights resembling a string of pearls, best seen from Kamala Nehru Park or Malabar Hill.",
+    "images": [
+      "https://picsum.photos/seed/marine-drive-promenade-night-1/800/600",
+      "https://picsum.photos/seed/marine-drive-promenade-night-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free, view from public viewpoints",
+    "open_time": "19:00",
+    "close_time": "22:00",
+    "closed_on": [],
+    "best_time": "After dark (lights switch on around sunset)",
+    "avg_duration_min": 30,
+    "badge_color": "success",
+    "tags": [
+      "scenic",
+      "night-view",
+      "outdoor"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "afghan-church",
+    "name": "St. John the Evangelist Church (Afghan Church)",
+    "category": "historical",
+    "locality": "Colaba",
+    "description": "A striking Gothic-style church built in 1858 to commemorate soldiers who died in the First Afghan War, featuring stained glass windows and a peaceful courtyard.",
+    "images": [
+      "https://picsum.photos/seed/afghan-church-1/800/600",
+      "https://picsum.photos/seed/afghan-church-2/800/600"
+    ],
+    "entry_fee": 0,
+    "entry_fee_note": "Free entry",
+    "open_time": "07:00",
+    "close_time": "18:00",
+    "closed_on": [],
+    "best_time": "Morning",
+    "avg_duration_min": 30,
+    "badge_color": "warning",
+    "tags": [
+      "religious",
+      "architecture",
+      "outdoor",
+      "quiet"
+    ],
+    "is_outdoor": true
+  },
+  {
+    "id": "snowworld",
+    "name": "Snow World",
+    "category": "adventure",
+    "locality": "Lower Parel (Phoenix Marketcity / various locations)",
+    "description": "An indoor artificial snow park where visitors can experience snowfall, sledding, and snow play \u2014 a fun novelty especially for kids unfamiliar with snow.",
+    "images": [
+      "https://picsum.photos/seed/snowworld-1/800/600",
+      "https://picsum.photos/seed/snowworld-2/800/600"
+    ],
+    "entry_fee": 600,
+    "entry_fee_note": "Approx \u20b9600-900 per person depending on location and time slot",
+    "open_time": "11:00",
+    "close_time": "21:00",
+    "closed_on": [],
+    "best_time": "Afternoon",
+    "avg_duration_min": 60,
+    "badge_color": "danger",
+    "tags": [
+      "indoor",
+      "novelty",
+      "family",
+      "amusement"
+    ],
+    "is_outdoor": false
+  },
+  {
+    "id": "worli-bdd-chawl-heritage",
+    "name": "Mumbai Port Trust Garden (Sagar Upvan)",
+    "category": "nature",
+    "locality": "Wadala",
+    "description": "A large, well-maintained garden with a Japanese-style design, walking trails, a small lake, and views of the harbour \u2014 an underrated green escape.",
+    "images": [
+      "https://picsum.photos/seed/worli-bdd-chawl-heritage-1/800/600",
+      "https://picsum.photos/seed/worli-bdd-chawl-heritage-2/800/600"
+    ],
+    "entry_fee": 20,
+    "entry_fee_note": "Small nominal entry fee, approx \u20b910-20",
+    "open_time": "07:00",
+    "close_time": "19:00",
+    "closed_on": [],
+    "best_time": "Morning or evening",
+    "avg_duration_min": 60,
+    "badge_color": "success",
+    "tags": [
+      "park",
+      "outdoor",
+      "quiet",
+      "underrated"
+    ],
+    "is_outdoor": true
+  }
+]
