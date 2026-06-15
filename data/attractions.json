@@ -769,8 +769,8 @@
     "locality": "Bandra",
     "description": "A 17th-century Portuguese watchtower ruin on a rocky outcrop overlooking the sea and the Bandra-Worli Sea Link \u2014 a compact but scenic heritage spot.",
     "images": [
-      "https://picsum.photos/seed/bandra-fort-1/800/600",
-      "https://picsum.photos/seed/bandra-fort-2/800/600"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Entrance_to_Bandra_Fort.jpg/500px-Entrance_to_Bandra_Fort.jpg",
+      "https://indiacinehub.gov.in/sites/default/files/styles/flexslider_full/public/2024-01/bandra_fort1.png?itok=YSYhpL1i"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free entry",
@@ -795,8 +795,8 @@
     "locality": "Bandra",
     "description": "A 16th-century Roman Catholic basilica perched on a hill overlooking the sea, famous for its annual Bandra Fair (Mount Mary Fair) every September.",
     "images": [
-      "https://picsum.photos/seed/mount-mary-church-1/800/600",
-      "https://picsum.photos/seed/mount-mary-church-2/800/600"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mount_Mary_Church_%28Bombay%29.jpg/500px-Mount_Mary_Church_%28Bombay%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mountmary.jpg/960px-Mountmary.jpg"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free entry",
@@ -821,8 +821,8 @@
     "locality": "Bandra",
     "description": "A seafront promenade near Bandra Fort, popular for evening walks and known for being close to several Bollywood celebrity residences, including Shah Rukh Khan's Mannat.",
     "images": [
-      "https://picsum.photos/seed/bandra-bandstand-1/800/600",
-      "https://picsum.photos/seed/bandra-bandstand-2/800/600"
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/2e/80/47/bandstand-promenade.jpg?w=1400&h=-1&s=1",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Mumbai_Bandstand_Promenade.jpg/960px-Mumbai_Bandstand_Promenade.jpg"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free entry",
@@ -847,8 +847,8 @@
     "locality": "Juhu / Vile Parle",
     "description": "An upscale residential area near Juhu, lined with celebrity bungalows, trendy cafes and boutiques \u2014 a popular spot for a relaxed walk.",
     "images": [
-      "https://picsum.photos/seed/jvpd-scheme-1/800/600",
-      "https://picsum.photos/seed/jvpd-scheme-2/800/600"
+      "https://media.weddingz.in/photologue/images/jvpd-grounds-juhu-mumbai.jpg",
+      "https://img.staticmb.com/mbphoto/locality/cropped_images/2024/Nov/9/Photo_h600_w900/94317_Screenshot-2024-11-09-142201_600_900.jpg"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free, public roads",
@@ -873,8 +873,8 @@
     "locality": "Powai",
     "description": "An artificial lake created in 1891, surrounded by upscale neighbourhoods, cafes, and walking paths \u2014 a calm escape with occasional bird sightings.",
     "images": [
-      "https://picsum.photos/seed/powai-lake-1/800/600",
-      "https://picsum.photos/seed/powai-lake-2/800/600"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Powai_Lake_Panorama.jpg/1920px-Powai_Lake_Panorama.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/6e/60/81/powai-lake-in-the-afternoon.jpg?w=1400&h=-1&s=1"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free entry",
@@ -899,8 +899,8 @@
     "locality": "Goregaon",
     "description": "Mumbai's iconic Bollywood film studio complex, with guided tours showing outdoor sets, gardens, and lakes used in countless films and shows.",
     "images": [
-      "https://picsum.photos/seed/film-city-1/800/600",
-      "https://picsum.photos/seed/film-city-2/800/600"
+      "https://www.filmcitymumbai.org/Content/Admin/Images/5-1.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/f2/3c/e5/dadasaheb-phalke-chitranagri.jpg?w=1400&h=-1&s=1"
     ],
     "entry_fee": 600,
     "entry_fee_note": "Guided tour packages typically \u20b9600-1500 depending on duration and inclusions; advance booking recommended",
@@ -924,8 +924,8 @@
     "locality": "Fort / University of Mumbai",
     "description": "A 280-foot Venetian Gothic clock tower within the University of Mumbai campus, part of the Victorian Gothic and Art Deco Ensembles UNESCO listing.",
     "images": [
-      "https://picsum.photos/seed/rajabai-clock-tower-1/800/600",
-      "https://picsum.photos/seed/rajabai-clock-tower-2/800/600"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rajabai_Clock_Tower%2C_Mumbai_%2831_August_2008%29.jpg/960px-Rajabai_Clock_Tower%2C_Mumbai_%2831_August_2008%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Rajabai_Clock_Tower_night.jpg/330px-Rajabai_Clock_Tower_night.jpg"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free to view from outside; campus access may require permission",
@@ -951,7 +951,7 @@
     "locality": "Fort",
     "description": "An 1870s Gothic Revival courthouse with two octagonal towers, one of South Mumbai's finest examples of colonial architecture. Visitors can view court proceedings.",
     "images": [
-      "https://picsum.photos/seed/bombay-high-court-1/800/600",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mumbai_03-2016_41_Bombay_High_Court.jpg/500px-Mumbai_03-2016_41_Bombay_High_Court.jpg",
       "https://picsum.photos/seed/bombay-high-court-2/800/600"
     ],
     "entry_fee": 0,
@@ -978,8 +978,8 @@
     "locality": "Fort",
     "description": "An ornately sculpted 1869 fountain at a busy traffic intersection in the financial district, surrounded by colonial-era buildings.",
     "images": [
-      "https://picsum.photos/seed/flora-fountain-1/800/600",
-      "https://picsum.photos/seed/flora-fountain-2/800/600"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Mumbai_03-2016_72_Flora_Fountain.jpg/960px-Mumbai_03-2016_72_Flora_Fountain.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flora-Fountain.jpg/500px-Flora-Fountain.jpg"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free entry",
@@ -1003,8 +1003,8 @@
     "locality": "Fort",
     "description": "An art and culture hub featuring galleries, the David Sassoon Library, street art, boutique cafes, and the annual Kala Ghoda Arts Festival every February.",
     "images": [
-      "https://picsum.photos/seed/kala-ghoda-1/800/600",
-      "https://picsum.photos/seed/kala-ghoda-2/800/600"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kala_Ghoda_Statue.jpg/500px-Kala_Ghoda_Statue.jpg",
+      "https://images.news18.com/ibnlive/uploads/2026/02/SaveGram.App_626715623_17959899189043958_3225502970415010574_n-2026-02-e1b1a1dca5796701a84f03723aabc075.jpg"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free to walk around; individual galleries/cafes charge separately",
@@ -1029,8 +1029,8 @@
     "locality": "Kala Ghoda",
     "description": "One of India's most prominent art galleries, hosting rotating exhibitions of contemporary and modern Indian art since 1952. Adjacent to the Samovar Cafe.",
     "images": [
-      "https://picsum.photos/seed/jehangir-art-gallery-1/800/600",
-      "https://picsum.photos/seed/jehangir-art-gallery-2/800/600"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/JAG_From_Outside.jpg/960px-JAG_From_Outside.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdcZCPOTWfppRyCHCMQvjqcRfA4i3JK7-hemX1c3JWrw&s=10"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free entry to most exhibitions",
@@ -1054,8 +1054,8 @@
     "locality": "Colaba",
     "description": "An opulent heritage hotel opened in 1903, an architectural landmark combining Moorish, Oriental and Florentine styles, located right next to the Gateway of India.",
     "images": [
-      "https://picsum.photos/seed/taj-mahal-palace-1/800/600",
-      "https://picsum.photos/seed/taj-mahal-palace-2/800/600"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Taj_Mahal_Palace_Hotel.jpg/500px-The_Taj_Mahal_Palace_Hotel.jpg",
+      "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/c065e259e7a8bffc507dd5d0f9334e4cb7f90aaa-912x966.jpg?w=768&auto=format&dpr=2"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free to view exterior; high-tea and dining experiences are paid",
@@ -1080,8 +1080,8 @@
     "locality": "Fort",
     "description": "A self-guided or organised walking route through Mumbai's Fort area covering Horniman Circle, St. Thomas Cathedral, Asiatic Society Library, and colonial-era arcades.",
     "images": [
-      "https://picsum.photos/seed/essentially-mumbai-heritage-walk-1/800/600",
-      "https://picsum.photos/seed/essentially-mumbai-heritage-walk-2/800/600"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mumbai_fort_remains_6.jpg/500px-Mumbai_fort_remains_6.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7OPutiqx4UYsrrR8Rt8oxQF689J3y5V_HN4Upy_ONVHYpCUcHayQgJVw&s=10"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free for self-guided; guided heritage walks typically \u20b9300-800",
@@ -1105,8 +1105,8 @@
     "locality": "Fort",
     "description": "A landscaped circular garden in the heart of the Fort district, surrounded by Neo-Classical buildings including the Town Hall and Asiatic Society.",
     "images": [
-      "https://picsum.photos/seed/horniman-circle-garden-1/800/600",
-      "https://picsum.photos/seed/horniman-circle-garden-2/800/600"
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/f2/58/2c/horniman-circle-garden.jpg?w=1200&h=-1&s=1",
+      "https://avathioutdoors.gumlet.io/travelGuide/dev/mumbai_P2353.jpg"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free entry",
@@ -1130,8 +1130,8 @@
     "locality": "Byculla",
     "description": "Mumbai's main zoo and botanical garden, home to the Bhau Daji Lad Museum and a popular family attraction with a variety of animals including a humboldt penguin enclosure.",
     "images": [
-      "https://picsum.photos/seed/veermata-jijabai-zoo-1/800/600",
-      "https://picsum.photos/seed/veermata-jijabai-zoo-2/800/600"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQev3X3ZiRn5QYqlCRJUHYuMSOoRnW7i9IEUuj_pgUxkyzRSZkbUqzMzJo&s=10",
+      "https://roamingwithroads.com/wp-content/uploads/2024/10/IMG20241006100055-768x1024.jpg"
     ],
     "entry_fee": 25,
     "entry_fee_note": "Approx \u20b925-50 for adults; closed on Wednesdays",
@@ -1157,8 +1157,8 @@
     "locality": "Byculla",
     "description": "Mumbai's oldest museum (established 1872), beautifully restored, showcasing the city's social and cultural history through art, photographs, and decorative objects.",
     "images": [
-      "https://picsum.photos/seed/bhau-daji-lad-museum-1/800/600",
-      "https://picsum.photos/seed/bhau-daji-lad-museum-2/800/600"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dr._Bhau_Daji_Lad_Museum%2C_esterno_01.jpg/500px-Dr._Bhau_Daji_Lad_Museum%2C_esterno_01.jpg",
+      "https://assets.architecturaldigest.in/photos/678a4e4c55ee7665646aa76c/master/w_1600,c_limit/IMG_20241224_111535932.jpg"
     ],
     "entry_fee": 100,
     "entry_fee_note": "Approx \u20b9100 for Indian adults",
@@ -1185,8 +1185,8 @@
     "locality": "Colaba",
     "description": "Mumbai's oldest dock, a working fishing harbour where colourful fishing boats unload their catch each morning \u2014 a raw, authentic slice of the city's maritime life.",
     "images": [
-      "https://picsum.photos/seed/sassoon-dock-1/800/600",
-      "https://picsum.photos/seed/sassoon-dock-2/800/600"
+      "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sassoon_Docks_overhead_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sassoon_docks2.jpg/500px-Sassoon_docks2.jpg"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free; can be crowded and have strong fish odour",
@@ -1211,8 +1211,8 @@
     "locality": "Malabar Hill",
     "description": "A scenic residential walk past Mumbai's most expensive properties, including Antilia (Mukesh Ambani's residence), with sea views along the way.",
     "images": [
-      "https://picsum.photos/seed/antilia-viewpoint-1/800/600",
-      "https://picsum.photos/seed/antilia-viewpoint-2/800/600"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mumbai_03-2016_19_Antilia_Tower.jpg/960px-Mumbai_03-2016_19_Antilia_Tower.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Antilia.JPG/500px-Antilia.JPG"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free; public roads only, no entry to private property",
@@ -1236,8 +1236,8 @@
     "locality": "Malabar Hill",
     "description": "An ancient Shiva temple atop a small hill near Chowpatty, accessible by a flight of steps, with panoramic views of the city and sea.",
     "images": [
-      "https://picsum.photos/seed/babulnath-temple-1/800/600",
-      "https://picsum.photos/seed/babulnath-temple-2/800/600"
+      "https://temple.yatradham.org/public/Product/temple/temple_FClqsAmN_202506101700140.webp",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/90/ed/21/caption.jpg?w=1100&h=1100&s=1"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free entry",
@@ -1261,8 +1261,8 @@
     "locality": "Gamdevi",
     "description": "The house where Mahatma Gandhi stayed during his visits to Mumbai between 1917-1934, now a museum with photographs, letters, and a library dedicated to his life.",
     "images": [
-      "https://picsum.photos/seed/mani-bhavan-1/800/600",
-      "https://picsum.photos/seed/mani-bhavan-2/800/600"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Mani_Bhavan_-_Gandhi%27s_house_in_Mumbai.jpg/960px-Mani_Bhavan_-_Gandhi%27s_house_in_Mumbai.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Barack_and_Michelle_Obama_at_the_Mani_Bhavan_Gandhi_Museum_in_Mumbai.jpg/500px-Barack_and_Michelle_Obama_at_the_Mani_Bhavan_Gandhi_Museum_in_Mumbai.jpg"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free entry; donations welcome",
@@ -1286,8 +1286,8 @@
     "locality": "Marine Drive",
     "description": "A row of pastel-coloured Art Deco apartment buildings from the 1930s-40s lining Marine Drive, part of Mumbai's UNESCO-listed Art Deco ensemble.",
     "images": [
-      "https://picsum.photos/seed/marine-drive-art-deco-1/800/600",
-      "https://picsum.photos/seed/marine-drive-art-deco-2/800/600"
+      "https://static.wixstatic.com/media/cfca41_39d3ed22ebac436baf1947bd6fa8fad0~mv2.jpg/v1/fill/w_766,h_550,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Figure%2011_JPG.jpg",
+      "https://static.wixstatic.com/media/cfca41_e837c90452b5423bbc7156f61b4c38dc~mv2.jpg/v1/crop/x_52,y_75,w_2363,h_3105/fill/w_632,h_830,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Figure%208.jpg"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free to view from the street",
@@ -1311,8 +1311,8 @@
     "locality": "Fort",
     "description": "A celebrated seafood restaurant near Kala Ghoda, famous for its butter garlic crab and koliwada prawns \u2014 a favourite among food critics and tourists alike.",
     "images": [
-      "https://picsum.photos/seed/trishna-restaurant-1/800/600",
-      "https://picsum.photos/seed/trishna-restaurant-2/800/600"
+      "https://i.ytimg.com/vi/l9R5FXLjsyo/maxresdefault.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-m/1280/2d/2d/d5/7d/caption.jpg"
     ],
     "entry_fee": 0,
     "entry_fee_note": "No entry fee; meal cost \u20b91500-3000 per person",
@@ -1336,8 +1336,8 @@
     "locality": "Bandra",
     "description": "A famous chaat hub inside Elco Arcade in Bandra, best known for its pani puri, ragda pattice, and other Mumbai chaat classics.",
     "images": [
-      "https://picsum.photos/seed/elco-market-pani-puri-1/800/600",
-      "https://picsum.photos/seed/elco-market-pani-puri-2/800/600"
+      "https://backend.insideiim.com/wp-content/uploads/2016/07/WhatsApp-Image-20160713-1.jpeg",
+      "https://b.zmtcdn.com/data/reviews_photos/81d/16132444c06017eaab8cfb507171781d_1772170679.jpg"
     ],
     "entry_fee": 0,
     "entry_fee_note": "No entry fee; per-plate cost \u20b950-150",
@@ -1361,8 +1361,8 @@
     "locality": "Kalbadevi",
     "description": "An institution since 1945 serving authentic, unlimited Gujarati and Kathiawadi thalis in a traditional dining hall setting.",
     "images": [
-      "https://picsum.photos/seed/shree-thaker-bhojanalay-1/800/600",
-      "https://picsum.photos/seed/shree-thaker-bhojanalay-2/800/600"
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/56/a2/d2/our-passionate-patron.jpg?w=1400&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/81/bd/44/caption.jpg?w=1400&h=-1&s=1"
     ],
     "entry_fee": 0,
     "entry_fee_note": "No entry fee; thali cost approx \u20b9500-700 per person",
@@ -1387,8 +1387,8 @@
     "locality": "Kurla",
     "description": "One of Mumbai's largest shopping malls with international and domestic brands, a multiplex, food court, and entertainment zones.",
     "images": [
-      "https://picsum.photos/seed/phoenix-marketcity-1/800/600",
-      "https://picsum.photos/seed/phoenix-marketcity-2/800/600"
+      "https://www.phoenixoffices.in/wp-content/uploads/2015/12/DeathtoStock_Holiday2-1-1170x530.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Phoenix_Marketcity_Kurla.jpg/960px-Phoenix_Marketcity_Kurla.jpg"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free entry; parking charges apply",
@@ -1413,8 +1413,8 @@
     "locality": "Lower Parel",
     "description": "A premium mall complex combining luxury retail (Palladium), a large food court, multiplex, and entertainment zones in a renovated mill compound.",
     "images": [
-      "https://picsum.photos/seed/high-street-phoenix-1/800/600",
-      "https://picsum.photos/seed/high-street-phoenix-2/800/600"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lower_Parel_Phoenix_Palladium.jpg/960px-Lower_Parel_Phoenix_Palladium.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpqxGcnfvWEnD8pJF7lYjn0psjlmdbfTf3P_BB-0ULsBOet4OdAOPtv3KzSo40uVy7s9GbwmwhQp7xdtwx4h5tsghYKbOKZVJvyryXLVnqwUOSNvbLX8iZspdfT7eoXhxssxxBWkONuow/s1600/phoenix2.jpg"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free entry; parking charges apply",
@@ -1439,8 +1439,8 @@
     "locality": "Mutton Street, Byculla",
     "description": "A famous flea market dating back over 150 years, known for antiques, vintage furniture, old Bollywood memorabilia, and curious second-hand finds.",
     "images": [
-      "https://picsum.photos/seed/chor-bazaar-1/800/600",
-      "https://picsum.photos/seed/chor-bazaar-2/800/600"
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8e/98/ec/caption.jpg?w=1400&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/fd/7e/c6/chor-bazaar.jpg?w=1400&h=-1&s=1"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free entry; closed Fridays",
@@ -1467,8 +1467,8 @@
     "locality": "Worli",
     "description": "A traditional fishing community offering a glimpse into Mumbai's pre-colonial Koli heritage, with colourful boats, nets, and views of the Sea Link from the shore.",
     "images": [
-      "https://picsum.photos/seed/worli-fishing-village-1/800/600",
-      "https://picsum.photos/seed/worli-fishing-village-2/800/600"
+      "https://as1.ftcdn.net/v2/jpg/17/76/35/28/1000_F_1776352888_qyyR8BftOGoxlK7EyKZyitJ1NtcaDf8A.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfn-SuATefFKrBnAx-2IiDcCbPzAiqLLonEaDChQp2Zvtm3yuz7alEAQn-IqLAT9lyl5BkXvoPeU5v_0npCtaU1KhMYtWBBUP_uX2ru1uiUb6WQtO7JAZ1m0QNjW4RSfLoclIBR0olBWo/s1600/IMG_0573.JPG"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free; respectful visiting recommended",
@@ -1492,8 +1492,8 @@
     "locality": "Andheri West",
     "description": "A quieter beach known for its fishing community, sunset views, and recent coastal clean-up efforts that restored it as a nesting site for Olive Ridley turtles.",
     "images": [
-      "https://picsum.photos/seed/versova-beach-1/800/600",
-      "https://picsum.photos/seed/versova-beach-2/800/600"
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/81/5b/59/very-clean-beach-thanks.jpg?w=1400&h=800&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/15/5e/04/versova-beach.jpg?w=2000&h=-1&s=1"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free entry",
@@ -1518,8 +1518,8 @@
     "locality": "Malad West",
     "description": "A laid-back coastal area with palm groves, a 16th-century Portuguese fort (Madh Fort), and quiet beaches popular for film shoots and weekend getaways.",
     "images": [
-      "https://picsum.photos/seed/madh-island-1/800/600",
-      "https://picsum.photos/seed/madh-island-2/800/600"
+      "https://imgmediagumlet.lbb.in/media/2023/04/6436681527ecb545869f05dc_1681287189475.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c3/Madh-fort3.jpg"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free entry; ferry from Versova adds to the experience",
@@ -1544,8 +1544,8 @@
     "locality": "Vasai (Greater Mumbai)",
     "description": "A sprawling ruined Portuguese fort dating to 1536, overtaken by greenery, with old churches and bastions \u2014 a favourite for history buffs and photographers.",
     "images": [
-      "https://picsum.photos/seed/vasai-fort-1/800/600",
-      "https://picsum.photos/seed/vasai-fort-2/800/600"
+      "https://upload.wikimedia.org/wikipedia/commons/9/93/Vasai_fort_building2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Vasai_fort_facade.jpg/500px-Vasai_fort_facade.jpg"
     ],
     "entry_fee": 25,
     "entry_fee_note": "Approx \u20b925 entry fee (ASI-protected monument)",
@@ -1570,8 +1570,8 @@
     "locality": "Gorai",
     "description": "A clean, relatively uncrowded beach near the Global Vipassana Pagoda, popular for camel rides and a relaxed family day out.",
     "images": [
-      "https://picsum.photos/seed/gorai-beach-1/800/600",
-      "https://picsum.photos/seed/gorai-beach-2/800/600"
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ba/5b/89/beach.jpg?w=2000&h=-1&s=1",
+      "https://media.tripinvites.com/places/mumbai/gorai-beach/gorai-beach-featured-750x500.webp"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free entry",
@@ -1595,8 +1595,8 @@
     "locality": "Marine Drive (viewed from Malabar Hill)",
     "description": "The famous nighttime view of Marine Drive's curved streetlights resembling a string of pearls, best seen from Kamala Nehru Park or Malabar Hill.",
     "images": [
-      "https://picsum.photos/seed/marine-drive-promenade-night-1/800/600",
-      "https://picsum.photos/seed/marine-drive-promenade-night-2/800/600"
+      "https://blog.getsethome.com/wp-content/uploads/2023/08/marine_drive_night-1160x653.jpeg",
+      "https://lh4.googleusercontent.com/yu36fK4TMlgoPnfy0jStc2XTbGdXwJvmuxiDHD4NJBmQtRnxYGSd8w_FTACbE2jiNc9U76Nuu2lVV6AactAsy1KTytGXMuMMmz3QDX06o3-S83G4qj-VzQcXgvwqrCzktpPWM0qxJMI4BdiFA_sha5I"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free, view from public viewpoints",
@@ -1620,8 +1620,8 @@
     "locality": "Colaba",
     "description": "A striking Gothic-style church built in 1858 to commemorate soldiers who died in the First Afghan War, featuring stained glass windows and a peaceful courtyard.",
     "images": [
-      "https://picsum.photos/seed/afghan-church-1/800/600",
-      "https://picsum.photos/seed/afghan-church-2/800/600"
+      "https://upload.wikimedia.org/wikipedia/commons/7/70/Afghan-Church%2C_Bombay-FV.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Afghan_Church_-_Stain_glass_window_-_2.jpg/500px-Afghan_Church_-_Stain_glass_window_-_2.jpg"
     ],
     "entry_fee": 0,
     "entry_fee_note": "Free entry",
@@ -1646,8 +1646,8 @@
     "locality": "Lower Parel (Phoenix Marketcity / various locations)",
     "description": "An indoor artificial snow park where visitors can experience snowfall, sledding, and snow play \u2014 a fun novelty especially for kids unfamiliar with snow.",
     "images": [
-      "https://picsum.photos/seed/snowworld-1/800/600",
-      "https://picsum.photos/seed/snowworld-2/800/600"
+      "https://news.easyshiksha.com/wp-content/uploads/IMG_1105.jpg",
+      "https://www.trawell.in/admin/images/upload/432082734snow-world.jpg"
     ],
     "entry_fee": 600,
     "entry_fee_note": "Approx \u20b9600-900 per person depending on location and time slot",
@@ -1672,8 +1672,8 @@
     "locality": "Wadala",
     "description": "A large, well-maintained garden with a Japanese-style design, walking trails, a small lake, and views of the harbour \u2014 an underrated green escape.",
     "images": [
-      "https://picsum.photos/seed/worli-bdd-chawl-heritage-1/800/600",
-      "https://picsum.photos/seed/worli-bdd-chawl-heritage-2/800/600"
+      "https://content3.jdmagicbox.com/v2/comp/mumbai/h9/022p1229096073y3q7h9/catalogue/mumbai-port-trust-garden-colaba-mumbai-tourist-attraction-3lxu3du.jpg",
+      "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/7/2016/10/03102016_SagarUpvan04_AD.jpg"
     ],
     "entry_fee": 20,
     "entry_fee_note": "Small nominal entry fee, approx \u20b910-20",
