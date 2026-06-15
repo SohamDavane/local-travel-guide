@@ -1,0 +1,35 @@
+/* ===========================
+   Animations & Hover Effects
+   =========================== */
+
+/* Featured attraction cards lift on hover */
+.featured-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.featured-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.15);
+}
+
+/* Buttons get a subtle lift on hover */
+.btn {
+  transition: transform 0.15s ease;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+}
+
+/* Respect reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  .featured-card,
+  .btn {
+    transition: none;
+  }
+
+  .featured-card:hover,
+  .btn:hover {
+    transform: none;
+  }
+}
