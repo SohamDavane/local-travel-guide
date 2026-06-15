@@ -63,3 +63,41 @@ footer a {
 footer a:hover {
   color: #ffffff;
 }
+
+/* This file is shared across the team — see Group 1's main.css for the
+   hero/stats/section styles. Group 2 additions are below. */
+
+/* ===========================
+   Attractions Card Styling
+   =========================== */
+
+.attraction-card__image-wrap {
+  position: relative;
+}
+
+.attraction-card__image-wrap img {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.attraction-card__badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.attraction-card__meta li {
+  margin-bottom: 0.25rem;
+}
+
+.attraction-card__meta i {
+  width: 1.1rem;
+  text-align: center;
+  display: inline-block;
+}
+
+/* Section spacing (shared utility, in case main.css from Group 1 isn't loaded yet) */
+.section-padded {
+  padding: 3rem 0;
+}

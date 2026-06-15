@@ -2,34 +2,34 @@
    Animations & Hover Effects
    =========================== */
 
-/* Featured attraction cards lift on hover */
-.featured-card {
+/* Attraction cards lift on hover */
+.attraction-card {
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.featured-card:hover {
+.attraction-card:hover {
   transform: translateY(-6px);
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.15);
 }
 
-/* Buttons get a subtle lift on hover */
-.btn {
+/* Filter buttons get a subtle lift on hover */
+.filter-btn {
   transition: transform 0.15s ease;
 }
 
-.btn:hover {
+.filter-btn:hover {
   transform: translateY(-2px);
 }
 
 /* Respect reduced motion preferences */
 @media (prefers-reduced-motion: reduce) {
-  .featured-card,
-  .btn {
+  .attraction-card,
+  .filter-btn {
     transition: none;
   }
 
-  .featured-card:hover,
-  .btn:hover {
+  .attraction-card:hover,
+  .filter-btn:hover {
     transform: none;
   }
 }
