@@ -1,247 +1,153 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MumbaiGuide — Home</title>
 
-<title>Mumbai Guide</title>
-
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Bootstrap Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+  <!-- Custom styles (after Bootstrap so they can override it) -->
+  <link href="assets/css/main.css" rel="stylesheet">
+  <link href="assets/css/animations.css" rel="stylesheet">
 </head>
 <body>
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-<div class="container">
+  <!-- NAVBAR (shared component, injected by assets/js/navbar.js) -->
+  <div id="navbar-placeholder"></div>
 
-<a class="navbar-brand" href="#">
-MumbaiGuide
-</a>
+  <!-- HERO -->
+  <section class="hero text-white text-center">
+    <div class="container">
+      <h1 class="display-4">Welcome to Mumbai</h1>
+      <p class="lead">Explore the city of dreams and discover amazing places.</p>
+      <a href="attractions.html" class="btn btn-warning btn-lg">Explore Attractions</a>
+    </div>
+  </section>
 
-<button class="navbar-toggler"
-type="button"
-data-bs-toggle="collapse"
-data-bs-target="#navbarNav">
-
-<span class="navbar-toggler-icon"></span>
-
-</button>
-
-<div class="collapse navbar-collapse" id="navbarNav">
-
-<ul class="navbar-nav ms-auto">
-
-<li class="nav-item">
-<a class="nav-link active" href="index.html">Home</a>
-</li>
-
-<li class="nav-item">
-<a class="nav-link" href="attractions.html">Attractions</a>
-</li>
-
-<li class="nav-item">
-<a class="nav-link" href="planner.html">Planner</a>
-</li>
-
-<li class="nav-item">
-<a class="nav-link" href="gallery.html">Gallery</a>
-</li>
-
-<li class="nav-item">
-<a class="nav-link" href="contact.html">Contact</a>
-</li>
-
-</ul>
-
-</div>
-</div>
-</nav>
-
-<section class="bg-primary text-white text-center p-5">
-
-<h1>Welcome to Mumbai</h1>
-
-<p>
-Explore the city of dreams and discover amazing places.
-</p>
-
-<a href="attractions.html" class="btn btn-warning">
-Explore Attractions
-</a>
-
-</section>
-
-<div class="container my-5">
-
-<div class="row text-center">
-
-<div class="col-md-3">
-<h2>50+</h2>
-<p>Attractions</p>
-</div>
-
-<div class="col-md-3">
-<h2>12</h2>
-<p>Areas</p>
-</div>
-
-<div class="col-md-3">
-<h2>₹500</h2>
-<p>Avg Meal</p>
-</div>
-
-<div class="col-md-3">
-<h2>Oct-Mar</h2>
-<p>Best Season</p>
-</div>
-
-</div>
-
-</div>
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-
-<section class="container my-5">
-  <div class="row align-items-center">
-
-    <div class="col-md-6">
-      <h2>About Mumbai</h2>
-
-      <p>
-        Mumbai is India's financial capital and one of the most vibrant cities in the world.
-        Known as the City of Dreams, it offers a perfect blend of history, culture,
-        entertainment, and beautiful coastal views.
-      </p>
-
-      <p>
-        From the iconic Gateway of India to the bustling Marine Drive,
-        Mumbai has something for every traveler.
-      </p>
-
-<section class="container my-5">
-
-  <h2 class="text-center mb-4">
-    Featured Attractions
-  </h2>
-
-  <div class="row">
-
-    <div class="col-md-4 mb-4">
-      <div class="card h-100 shadow">
-
-        <img
-          src="https://images.unsplash.com/photo-1595658658481-d53d3f999875?w=800"
-          class="card-img-top"
-          alt="Gateway of India">
-
-        <div class="card-body">
-          <h5 class="card-title">Gateway of India</h5>
-
-          <p class="card-text">
-            Historic monument overlooking the Arabian Sea.
-          </p>
-
-          <a href="attractions.html" class="btn btn-outline-primary">
-            See All
-          </a>
-        </div>
-
+  <!-- QUICK STATS -->
+  <section class="container section-padded">
+    <div class="row text-center stats-bar">
+      <div class="col-6 col-md-3 mb-4 mb-md-0">
+        <h2>50+</h2>
+        <p>Attractions</p>
+      </div>
+      <div class="col-6 col-md-3 mb-4 mb-md-0">
+        <h2>12</h2>
+        <p>Areas</p>
+      </div>
+      <div class="col-6 col-md-3">
+        <h2>₹500</h2>
+        <p>Avg Meal</p>
+      </div>
+      <div class="col-6 col-md-3">
+        <h2>Oct–Mar</h2>
+        <p>Best Season</p>
       </div>
     </div>
+  </section>
 
-    <div class="col-md-4 mb-4">
-      <div class="card h-100 shadow">
+  <!-- ABOUT MUMBAI -->
+  <section class="container section-padded">
+    <div class="row align-items-center g-4">
 
-        <img
-          src="https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=800"
-          class="card-img-top"
-          alt="Marine Drive">
-
-        <div class="card-body">
-          <h5 class="card-title">Marine Drive</h5>
-
-          <p class="card-text">
-            Famous seaside promenade and sunset destination.
-          </p>
-
-          <a href="attractions.html" class="btn btn-outline-primary">
-            See All
-          </a>
-        </div>
-
+      <div class="col-md-6">
+        <h2>About Mumbai</h2>
+        <p>
+          Mumbai is India's financial capital and one of the most vibrant cities in the world.
+          Known as the City of Dreams, it offers a blend of history, culture,
+          entertainment, and coastal views.
+        </p>
+        <p>
+          From the iconic Gateway of India to the bustling Marine Drive,
+          Mumbai has something for every traveler.
+        </p>
+        <a href="attractions.html" class="btn btn-primary">Learn More</a>
       </div>
-    </div>
 
-    <div class="col-md-4 mb-4">
-      <div class="card h-100 shadow">
-
+      <div class="col-md-6">
         <img
-          src="https://images.unsplash.com/photo-1609947017136-9daf32a5eb16?w=800"
-          class="card-img-top"
-          alt="Elephanta Caves">
-
-        <div class="card-body">
-          <h5 class="card-title">Elephanta Caves</h5>
-
-          <p class="card-text">
-            UNESCO World Heritage site with ancient cave temples.
-          </p>
-
-          <a href="attractions.html" class="btn btn-outline-primary">
-            See All
-          </a>
-        </div>
-
+          src="https://images.unsplash.com/photo-1566552881560-0be862a7c445?w=900&q=80"
+          class="img-fluid rounded shadow"
+          alt="Mumbai skyline at dusk with the sea in the foreground"
+          loading="lazy">
       </div>
+
     </div>
+  </section>
 
-  </div>
+  <!-- FEATURED ATTRACTIONS -->
+  <section class="container section-padded">
+    <h2 class="text-center mb-4">Featured Attractions</h2>
 
-</section> 
+    <div class="row">
 
-<section class="bg-dark text-white text-center p-5">
+      <div class="col-md-4 mb-4">
+        <div class="card h-100 shadow featured-card">
+          <img
+            src="https://images.unsplash.com/photo-1595658658481-d53d3f999875?w=800&q=80"
+            class="card-img-top"
+            alt="Gateway of India monument by the sea"
+            loading="lazy">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title">Gateway of India</h5>
+            <p class="card-text">Historic monument overlooking the Arabian Sea.</p>
+            <a href="attractions.html" class="btn btn-outline-primary mt-auto">See All</a>
+          </div>
+        </div>
+      </div>
 
-  <h2>Ready to Plan Your Trip?</h2>
+      <div class="col-md-4 mb-4">
+        <div class="card h-100 shadow featured-card">
+          <img
+            src="https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=800&q=80"
+            class="card-img-top"
+            alt="Marine Drive promenade at sunset"
+            loading="lazy">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title">Marine Drive</h5>
+            <p class="card-text">Famous seaside promenade and sunset destination.</p>
+            <a href="attractions.html" class="btn btn-outline-primary mt-auto">See All</a>
+          </div>
+        </div>
+      </div>
 
-  <p>
-    Create your perfect Mumbai itinerary today.
-  </p>
+      <div class="col-md-4 mb-4">
+        <div class="card h-100 shadow featured-card">
+          <img
+            src="https://images.unsplash.com/photo-1609947017136-9daf32a5eb16?w=800&q=80"
+            class="card-img-top"
+            alt="Elephanta Caves rock-cut temple interior"
+            loading="lazy">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title">Elephanta Caves</h5>
+            <p class="card-text">UNESCO World Heritage site with ancient cave temples.</p>
+            <a href="attractions.html" class="btn btn-outline-primary mt-auto">See All</a>
+          </div>
+        </div>
+      </div>
 
-  <a href="planner.html" class="btn btn-warning">
-    Plan My Trip
-  </a>
-
-</section>
-
-
-      <a href="attractions.html" class="btn btn-primary">
-        Learn More
-      </a>
     </div>
+  </section>
 
-    <div class="col-md-6">
-      <img
-        src="https://images.unsplash.com/photo-1566552881560-0be862a7c445?w=900"
-        class="img-fluid rounded shadow"
-        alt="Mumbai Skyline">
+  <!-- CALL TO ACTION -->
+  <section class="bg-dark text-white text-center cta-section">
+    <div class="container">
+      <h2>Ready to Plan Your Trip?</h2>
+      <p>Create your perfect Mumbai itinerary today.</p>
+      <a href="planner.html" class="btn btn-warning btn-lg">Plan My Trip</a>
     </div>
+  </section>
 
-  </div>
-</section>
+  <!-- FOOTER (shared component, injected by assets/js/navbar.js) -->
+  <div id="footer-placeholder"></div>
 
-<footer class="bg-black text-white text-center p-4">
+  <!-- Bootstrap JS bundle (includes Popper) -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <!-- Shared navbar/footer loader + active link highlighter -->
+  <script src="assets/js/navbar.js"></script>
 
-  <h5>MumbaiGuide</h5>
-
-  <p>
-    Explore • Discover • Travel
-  </p>
-
-  <p>
-    © 2026 TravelGuide Project
-  </p>
-
-</footer>
-<script src="assets/js/navbar.js"></script>
 </body>
 </html>
