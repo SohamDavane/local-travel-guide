@@ -1,119 +1,90 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Itinerary Planner — MumbaiGuide</title>
 
-    <title>Trip Itinerary Planner</title>
-
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-
-    <style>
-        body {
-            background: linear-gradient(to right, #4facfe, #00f2fe);
-            min-height: 100vh;
-        }
-
-        .main-card {
-            background: white;
-            border-radius: 20px;
-            padding: 30px;
-            margin-top: 30px;
-            box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.2);
-        }
-
-        .hero {
-            background: linear-gradient(135deg, #007bff, #00c6ff);
-            color: white;
-            border-radius: 20px;
-            padding: 40px;
-            text-align: center;
-            margin-bottom: 30px;
-        }
-
-        .hero h1 {
-            font-size: 3rem;
-            font-weight: bold;
-        }
-
-        .summary-box {
-            background: #e9f7ff;
-            border-radius: 15px;
-            padding: 20px;
-            margin-top: 20px;
-        }
-
-        .card {
-            border-radius: 15px;
-        }
-
-        .btn {
-            border-radius: 10px;
-        }
-    </style>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Bootstrap Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+  <!-- Custom styles -->
+  <link href="assets/css/main.css" rel="stylesheet">
+  <link href="assets/css/animations.css" rel="stylesheet">
 </head>
-
 <body>
 
+  <!-- NAVBAR (shared component) -->
+  <div id="navbar-placeholder"></div>
+
+  <!-- PAGE HEADER -->
+  <section class="bg-primary text-white text-center section-padded">
     <div class="container">
+      <h1>Plan Your Trip</h1>
+      <p class="lead mb-0">Build a day-by-day itinerary — add activities, reorder your plan, and export it when ready.</p>
+    </div>
+  </section>
 
-        <div class="main-card">
+  <!-- TRIP SETUP -->
+  <section class="container my-4">
+    <div class="card shadow-sm">
+      <div class="card-body">
+        <h2 class="h5 mb-3">Trip Details</h2>
 
-            <div class="hero">
-                <h1>🌍 Trip Itinerary Planner</h1>
-                <p>Create your perfect travel schedule day by day</p>
-            </div>
+        <div id="setup-error" class="alert alert-danger d-none" role="alert"></div>
 
-            <div class="mb-3">
-                <label class="form-label">📍 Destination</label>
-                <input type="text"
-                    id="destination"
-                    class="form-control"
-                    placeholder="Enter destination">
-            </div>
-
-            <div class="mb-3">
-                <label class="form-label">🗓 Number of Days</label>
-                <input type="number"
-                    id="days"
-                    class="form-control"
-                    min="1"
-                    max="14">
-            </div>
-
-            <button onclick="createTrip()"
-                class="btn btn-primary btn-lg w-100">
-                  Create My Trip
+        <div class="row g-3 align-items-end">
+          <div class="col-md-5">
+            <label for="destination" class="form-label">Destination</label>
+            <input type="text" class="form-control" id="destination" placeholder="e.g. Mumbai">
+          </div>
+          <div class="col-md-3">
+            <label for="days" class="form-label">Number of days</label>
+            <input type="number" class="form-control" id="days" min="1" max="14" placeholder="e.g. 3">
+          </div>
+          <div class="col-md-4 d-flex gap-2">
+            <button type="button" class="btn btn-primary flex-fill" id="create-trip-btn">
+              Create My Trip
             </button>
-
-            <div class="summary-box">
-
-                <h4>📊 Trip Summary</h4>
-
-                <p id="total-days">
-                    Total Days: 0
-                </p>
-
-                <p id="total-activities">
-                    Total Activities: 0
-                </p>
-
-                <button onclick="exportPlan()"
-                    class="btn btn-success">
-                    📤 Export Plan
-                </button>
-
-            </div>
-
-            <div id="planner-container" class="mt-4"></div>
-
+            <button type="button" class="btn btn-outline-danger" id="clear-plan-btn">
+              Clear Plan
+            </button>
+          </div>
         </div>
+      </div>
+    </div>
+  </section>
 
+  <!-- PLANNER (hidden until a trip is created) -->
+  <section class="container my-4 d-none" id="planner-section">
+
+    <!-- SUMMARY BAR -->
+    <div class="d-flex flex-wrap justify-content-between align-items-center bg-light rounded p-3 mb-3 summary-bar">
+      <div class="d-flex gap-4">
+        <div><strong id="total-days">0</strong> <span class="text-muted">days</span></div>
+        <div><strong id="total-activities">0</strong> <span class="text-muted">activities</span></div>
+      </div>
+      <button type="button" class="btn btn-success btn-sm" id="export-plan-btn">
+        <i class="bi bi-download"></i> Export Plan
+      </button>
     </div>
 
-    <script src="script.js"></script>
+    <!-- DAY CARDS -->
+    <div id="planner-container">
+      <!-- Day cards are injected here by assets/js/planner.js -->
+    </div>
+  </section>
+
+  <!-- FOOTER (shared component) -->
+  <div id="footer-placeholder"></div>
+
+  <!-- Bootstrap JS bundle (includes Popper) -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <!-- Shared navbar/footer loader + active link highlighter -->
+  <script src="assets/js/navbar.js"></script>
+  <!-- Page-specific logic -->
+  <script src="assets/js/planner.js"></script>
 
 </body>
-
 </html>
