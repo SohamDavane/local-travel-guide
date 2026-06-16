@@ -1,0 +1,347 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact & Booking — MumbaiGuide</title>
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Bootstrap Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+
+  <!-- Shared CSS -->
+  <link href="assets/css/main.css" rel="stylesheet">
+  <link href="assets/css/animations.css" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Shared Navbar -->
+  <div id="navbar-placeholder"></div>
+
+  <!-- PAGE HEADER -->
+  <section class="bg-primary text-white text-center section-padded">
+    <div class="container">
+      <h1>Contact & Booking</h1>
+      <p class="lead mb-0">
+        Plan your perfect Mumbai trip with MumbaiGuide.
+      </p>
+    </div>
+  </section>
+
+  <!-- CONTACT SECTION -->
+  <section class="container section-padded">
+    <div class="row g-4">
+
+      <!-- BOOKING FORM -->
+      <div class="col-lg-7">
+
+        <div class="card shadow border-0">
+          <div class="card-body p-4">
+
+            <h3 class="mb-4">
+              <i class="bi bi-calendar-check"></i>
+              Booking Inquiry Form
+            </h3>
+
+            <form id="bookingForm" novalidate>
+
+              <div class="row">
+
+                <div class="col-md-6 mb-3">
+                  <label for="name" class="form-label">
+                    Full Name *
+                  </label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="name"
+                    placeholder="Enter your full name"
+                    required>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                  <label for="email" class="form-label">
+                    Email Address *
+                  </label>
+                  <input
+                    type="email"
+                    class="form-control"
+                    id="email"
+                    placeholder="example@email.com"
+                    required>
+                </div>
+
+              </div>
+
+              <div class="row">
+
+                <div class="col-md-6 mb-3">
+                  <label for="phone" class="form-label">
+                    Phone Number
+                  </label>
+                  <input
+                    type="tel"
+                    class="form-control"
+                    id="phone"
+                    placeholder="10 digit mobile number">
+                </div>
+
+                <div class="col-md-6 mb-3">
+                  <label for="travelers" class="form-label">
+                    Number of Travelers *
+                  </label>
+                  <input
+                    type="number"
+                    class="form-control"
+                    id="travelers"
+                    min="1"
+                    value="1"
+                    required>
+                </div>
+
+              </div>
+
+              <div class="row">
+
+                <div class="col-md-6 mb-3">
+                  <label for="from-date" class="form-label">
+                    Travel From *
+                  </label>
+                  <input
+                    type="date"
+                    class="form-control"
+                    id="from-date"
+                    required>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                  <label for="to-date" class="form-label">
+                    Travel To *
+                  </label>
+                  <input
+                    type="date"
+                    class="form-control"
+                    id="to-date"
+                    required>
+                </div>
+
+              </div>
+
+              <div class="mb-3">
+                <label for="trip-type" class="form-label">
+                  Trip Type
+                </label>
+
+                <select
+                  class="form-select"
+                  id="trip-type">
+
+                  <option selected>
+                    Select Trip Type
+                  </option>
+
+                  <option>
+                    Historical Tour
+                  </option>
+
+                  <option>
+                    Food Tour
+                  </option>
+
+                  <option>
+                    Adventure Trip
+                  </option>
+
+                  <option>
+                    Family Vacation
+                  </option>
+
+                  <option>
+                    Shopping Tour
+                  </option>
+
+                  <option>
+                    Custom Tour
+                  </option>
+
+                </select>
+              </div>
+              <div class="mb-3">
+  <label for="budget" class="form-label">
+    Budget Range
+  </label>
+
+  <select class="form-select" id="budget">
+    <option selected>Select Budget Range</option>
+    <option>₹5,000 - ₹10,000</option>
+    <option>₹10,000 - ₹20,000</option>
+    <option>₹20,000 - ₹50,000</option>
+    <option>₹50,000+</option>
+  </select>
+</div>
+
+              <div class="mb-3">
+
+                <label for="message" class="form-label">
+                  Special Requests
+                </label>
+
+                <textarea
+                  class="form-control"
+                  id="message"
+                  rows="5"
+                  maxlength="500"
+                  placeholder="Tell us about your trip requirements..."></textarea>
+
+                <div class="text-end text-muted small mt-1">
+                  Characters:
+                  <span id="charCount">0</span>/500
+                </div>
+                <div class="mb-3">
+  <label for="rating" class="form-label">
+    Rate Our Website
+  </label>
+
+  <select class="form-select" id="rating">
+    <option selected>Select Rating</option>
+    <option>⭐⭐⭐⭐⭐ Excellent</option>
+    <option>⭐⭐⭐⭐ Good</option>
+    <option>⭐⭐⭐ Average</option>
+    <option>⭐⭐ Poor</option>
+  </select>
+</div>
+
+              </div>
+
+              <div class="d-grid gap-2 d-md-flex">
+
+                <button
+                  type="submit"
+                  class="btn btn-primary">
+
+                  <i class="bi bi-send"></i>
+                  Submit Inquiry
+
+                </button>
+
+                <button
+                  type="reset"
+                  class="btn btn-outline-secondary">
+
+                  Reset Form
+
+                </button>
+
+              </div>
+
+            </form>
+
+          </div>
+        </div>
+
+        <!-- SUCCESS MESSAGE -->
+
+        <div
+          id="success-message"
+          class="alert alert-success mt-4 shadow"
+          style="display:none;">
+
+          <h4>
+            <i class="bi bi-check-circle-fill"></i>
+            Booking Inquiry Submitted!
+          </h4>
+
+          <p class="mb-0">
+            Thank you
+            <strong id="success-name"></strong>!
+
+            We have received your inquiry and will contact you shortly.
+          </p>
+
+        </div>
+
+      </div>
+
+      <!-- CONTACT INFO -->
+
+      <div class="col-lg-5">
+
+        <div class="card shadow border-0 mb-4">
+          <div class="card-body">
+
+            <h4 class="mb-4">
+              <i class="bi bi-geo-alt-fill"></i>
+              Contact Information
+            </h4>
+
+            <p>
+              <strong>Address:</strong><br>
+              MumbaiGuide Tourism Office<br>
+              Nariman Point, Mumbai
+            </p>
+
+            <p>
+              <strong>Phone:</strong><br>
+              +91 98765 43210
+            </p>
+
+            <p>
+              <strong>Email:</strong><br>
+              info@mumbaiguide.com
+            </p>
+
+            <p class="mb-0">
+              <strong>Working Hours:</strong><br>
+              Mon – Sat<br>
+              9:00 AM – 6:00 PM
+            </p>
+
+          </div>
+        </div>
+
+        <!-- QUICK HELP -->
+
+        <div class="card shadow border-0 mb-4">
+          <div class="card-body">
+
+            <h4>
+              <i class="bi bi-info-circle"></i>
+              Why Book With Us?
+            </h4>
+
+            <ul class="mt-3">
+              <li>Customized Mumbai itineraries</li>
+              <li>Local travel experts</li>
+              <li>Food & cultural experiences</li>
+              <li>Affordable travel planning</li>
+              <li>Fast response support</li>
+            </ul>
+
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+
+  <!-- Shared Footer -->
+  <div id="footer-placeholder"></div>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Shared Navbar Loader -->
+  <script src="assets/js/navbar.js"></script>
+
+  <!-- Form Validation -->
+  <script src="assets/js/form-validate.js"></script>
+
+</body>
+</html>
+```
